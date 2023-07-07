@@ -1,0 +1,61 @@
+,block_id,user_id,model,category,sentence,score
+0,0,0,prompt_CFSLH-B.txt,perspective,Non c'è alcuna giustificazione per l'omicidio di una donna,7
+1,0,1,prompt_CFSLH-B.txt,perspective,Non c'è alcuna giustificazione per l'omicidio di una donna,6
+2,0,2,prompt_CFSLH-B.txt,perspective,Non c'è alcuna giustificazione per l'omicidio di una donna,10
+3,0,0,prompt_CFSLH-B.txt,perspective,'La tabaccaia uccisa sarà oggi la sentenza.',2
+4,0,1,prompt_CFSLH-B.txt,perspective,'La tabaccaia uccisa sarà oggi la sentenza.',0
+5,0,2,prompt_CFSLH-B.txt,perspective,'La tabaccaia uccisa sarà oggi la sentenza.',0
+6,0,0,prompt_CFSLH-B.txt,perspective,'L'omicidio di Ashley è un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.',6
+7,0,1,prompt_CFSLH-B.txt,perspective,'L'omicidio di Ashley è un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.',7
+8,0,2,prompt_CFSLH-B.txt,perspective,'L'omicidio di Ashley è un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.',0
+9,0,0,prompt_CFSLH-B.txt,perspective,"'Liliana è stata uccisa nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , da un assassino che non le ha lasciato scampo.'",6
+10,0,1,prompt_CFSLH-B.txt,perspective,"'Liliana è stata uccisa nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , da un assassino che non le ha lasciato scampo.'",4
+11,0,2,prompt_CFSLH-B.txt,perspective,"'Liliana è stata uccisa nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , da un assassino che non le ha lasciato scampo.'",5
+12,0,0,prompt_CFSLH-B.txt,perspective,`` Quella folle manovra sulla tangenziale di Napoli è un femminicidio '',5
+13,0,1,prompt_CFSLH-B.txt,perspective,`` Quella folle manovra sulla tangenziale di Napoli è un femminicidio '',0
+14,0,2,prompt_CFSLH-B.txt,perspective,`` Quella folle manovra sulla tangenziale di Napoli è un femminicidio '',0
+15,0,0,prompt_CFSLH-B.txt,similarity,Non c'è alcuna giustificazione per l'omicidio di una donna,0
+16,0,1,prompt_CFSLH-B.txt,similarity,Non c'è alcuna giustificazione per l'omicidio di una donna,2
+17,0,2,prompt_CFSLH-B.txt,similarity,Non c'è alcuna giustificazione per l'omicidio di una donna,1
+18,0,0,prompt_CFSLH-B.txt,similarity,'La tabaccaia uccisa sarà oggi la sentenza.',10
+19,0,1,prompt_CFSLH-B.txt,similarity,'La tabaccaia uccisa sarà oggi la sentenza.',10
+20,0,2,prompt_CFSLH-B.txt,similarity,'La tabaccaia uccisa sarà oggi la sentenza.',9
+21,0,0,prompt_CFSLH-B.txt,similarity,'L'omicidio di Ashley è un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.',0
+22,0,1,prompt_CFSLH-B.txt,similarity,'L'omicidio di Ashley è un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.',5
+23,0,2,prompt_CFSLH-B.txt,similarity,'L'omicidio di Ashley è un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.',9
+24,0,0,prompt_CFSLH-B.txt,similarity,"'Liliana è stata uccisa nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , da un assassino che non le ha lasciato scampo.'",7
+25,0,1,prompt_CFSLH-B.txt,similarity,"'Liliana è stata uccisa nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , da un assassino che non le ha lasciato scampo.'",7
+26,0,2,prompt_CFSLH-B.txt,similarity,"'Liliana è stata uccisa nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , da un assassino che non le ha lasciato scampo.'",10
+27,0,0,prompt_CFSLH-B.txt,similarity,`` Quella folle manovra sulla tangenziale di Napoli è un femminicidio '',3
+28,0,1,prompt_CFSLH-B.txt,similarity,`` Quella folle manovra sulla tangenziale di Napoli è un femminicidio '',4
+29,0,2,prompt_CFSLH-B.txt,similarity,`` Quella folle manovra sulla tangenziale di Napoli è un femminicidio '',2
+30,1,0,prompt_CFSLH.txt,perspective,"L'omicida femminicida , dopo aver ucciso , non si è pentito del suo crimine .",8
+31,1,1,prompt_CFSLH.txt,perspective,"L'omicida femminicida , dopo aver ucciso , non si è pentito del suo crimine .",6
+32,1,2,prompt_CFSLH.txt,perspective,"L'omicida femminicida , dopo aver ucciso , non si è pentito del suo crimine .",10
+33,1,0,prompt_CFSLH.txt,perspective,'L'uomo che ha ucciso la tabaccaia verrà giudicato oggi',9
+34,1,1,prompt_CFSLH.txt,perspective,'L'uomo che ha ucciso la tabaccaia verrà giudicato oggi',5
+35,1,2,prompt_CFSLH.txt,perspective,'L'uomo che ha ucciso la tabaccaia verrà giudicato oggi',10
+36,1,0,prompt_CFSLH.txt,perspective,"'Ashley , 35 anni , è stata uccisa dal suo convivente nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .'",7
+37,1,1,prompt_CFSLH.txt,perspective,"'Ashley , 35 anni , è stata uccisa dal suo convivente nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .'",1
+38,1,2,prompt_CFSLH.txt,perspective,"'Ashley , 35 anni , è stata uccisa dal suo convivente nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .'",3
+39,1,0,prompt_CFSLH.txt,perspective,"'Nella notte tra sabato e domenica , nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , Liliana , un passato da ladra , è stata uccisa da un assassino che non ha ancora un nome e un volto .",6
+40,1,1,prompt_CFSLH.txt,perspective,"'Nella notte tra sabato e domenica , nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , Liliana , un passato da ladra , è stata uccisa da un assassino che non ha ancora un nome e un volto .",3
+41,1,2,prompt_CFSLH.txt,perspective,"'Nella notte tra sabato e domenica , nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , Liliana , un passato da ladra , è stata uccisa da un assassino che non ha ancora un nome e un volto .",0
+42,1,0,prompt_CFSLH.txt,perspective,`` Quella folle manovra sulla tangenziale di Napoli ha portato alla morte di una donna '',6
+43,1,1,prompt_CFSLH.txt,perspective,`` Quella folle manovra sulla tangenziale di Napoli ha portato alla morte di una donna '',4
+44,1,2,prompt_CFSLH.txt,perspective,`` Quella folle manovra sulla tangenziale di Napoli ha portato alla morte di una donna '',0
+45,1,0,prompt_CFSLH.txt,similarity,"L'omicida femminicida , dopo aver ucciso , non si è pentito del suo crimine .",8
+46,1,1,prompt_CFSLH.txt,similarity,"L'omicida femminicida , dopo aver ucciso , non si è pentito del suo crimine .",4
+47,1,2,prompt_CFSLH.txt,similarity,"L'omicida femminicida , dopo aver ucciso , non si è pentito del suo crimine .",0
+48,1,0,prompt_CFSLH.txt,similarity,'L'uomo che ha ucciso la tabaccaia verrà giudicato oggi',3
+49,1,1,prompt_CFSLH.txt,similarity,'L'uomo che ha ucciso la tabaccaia verrà giudicato oggi',7
+50,1,2,prompt_CFSLH.txt,similarity,'L'uomo che ha ucciso la tabaccaia verrà giudicato oggi',10
+51,1,0,prompt_CFSLH.txt,similarity,"'Ashley , 35 anni , è stata uccisa dal suo convivente nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .'",9
+52,1,1,prompt_CFSLH.txt,similarity,"'Ashley , 35 anni , è stata uccisa dal suo convivente nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .'",9
+53,1,2,prompt_CFSLH.txt,similarity,"'Ashley , 35 anni , è stata uccisa dal suo convivente nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .'",10
+54,1,0,prompt_CFSLH.txt,similarity,"'Nella notte tra sabato e domenica , nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , Liliana , un passato da ladra , è stata uccisa da un assassino che non ha ancora un nome e un volto .",8
+55,1,1,prompt_CFSLH.txt,similarity,"'Nella notte tra sabato e domenica , nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , Liliana , un passato da ladra , è stata uccisa da un assassino che non ha ancora un nome e un volto .",9
+56,1,2,prompt_CFSLH.txt,similarity,"'Nella notte tra sabato e domenica , nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , Liliana , un passato da ladra , è stata uccisa da un assassino che non ha ancora un nome e un volto .",10
+57,1,0,prompt_CFSLH.txt,similarity,`` Quella folle manovra sulla tangenziale di Napoli ha portato alla morte di una donna '',7
+58,1,1,prompt_CFSLH.txt,similarity,`` Quella folle manovra sulla tangenziale di Napoli ha portato alla morte di una donna '',5
+59,1,2,prompt_CFSLH.txt,similarity,`` Quella folle manovra sulla tangenziale di Napoli ha portato alla morte di una donna '',5
