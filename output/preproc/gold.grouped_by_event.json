@@ -1,0 +1,2630 @@
+{
+    "656": [
+        {
+            "split": "train+dev",
+            "sentence": "Trapani , Donna di 60 anni uccisa dall'ex marito",
+            "document_id": 2597,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccide a coltellate la moglie che lo aveva lasciato per colpa del suo carattere violento",
+            "document_id": 2601,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccide la moglie a coltellate , ricercato il marito",
+            "document_id": 2599,
+            "blame_perception": "high"
+        }
+    ],
+    "475": [
+        {
+            "split": "train+dev",
+            "sentence": "Ravenna , uccide la moglie a coltellate e tenta il suicidio : anziano arrestato",
+            "document_id": 510,
+            "blame_perception": "high"
+        }
+    ],
+    "631": [
+        {
+            "split": "train+dev",
+            "sentence": "Uccisa Ravenna : marito , chiesi separazione",
+            "document_id": 2448,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccisa a Ravenna , domani l'autopsia",
+            "document_id": 2439,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Matteo Cagnoni , 51 anni , marito di Giulia Ballestri , 40 anni , trovata morta nella sua villa a Ravenna , \u00e8 in stato di fermo a Firenze , dove \u00e8 stato bloccato dalla polizia dopo un inutile tentativo di fuga per i campi .",
+            "document_id": 2433,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "A quanto emerge dall'autopsia eseguita dal professor Franco Tagliaro , la morte \u00e8 avvenuta tra gioved\u00ec e venerd\u00ec , ed \u00e8 dovuta anche a soffocamento da sangue nei polmoni .",
+            "document_id": 2446,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "La morte risale a circa 72 ore prime del ritrovamento del corpo .",
+            "document_id": 2433,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccisa a Ravenna : arresto convalidato",
+            "document_id": 2442,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccisa a Ravenna , Cagnoni svendette beni",
+            "document_id": 2447,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Chiesto il rinvio a giudizio per Cagnoni il dermatologo accusato per l'omicidio della moglie",
+            "document_id": 2462,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Ravenna , la donna uccisa a bastonate : il suocero indagato per occultamento di cadavere",
+            "document_id": 2457,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Uccise moglie a bastonate , via a processo",
+            "document_id": 2466,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Mario Cagnoni , 85 anni , secondo l'\u0080\u0099accusa mossa dal pm Cristina D'\u0080\u0099Aniello e dal procuratore capo Alessandro Mancini , sarebbe andato assieme al figlio nella villa dell'\u0080\u0099omicidio sabato 17 settembre , ovvero - sempre secondo quanto ricostruito dagli inquirenti - il giorno dopo il delitto : i due avrebbero spostato il corpo , nascondendolo nella cantina .",
+            "document_id": 2457,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "La donna \u00e8 stata trovata morta in una villa di famiglia a Ravenna .",
+            "document_id": 2449,
+            "blame_perception": "low"
+        }
+    ],
+    "578": [
+        {
+            "split": "train+dev",
+            "sentence": "La tessera mancante resta nascosta nelle ultime ore di vita di Maria Ungureanu .",
+            "document_id": 2206,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "La piccola \u00e9 stata gettata nella piscina ancora viva .",
+            "document_id": 2204,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Quando l'ho lasciata era viva e ci sono testimoni .",
+            "document_id": 2200,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Benevento bimba violentata e uccisa , interrogato per ore Daniel , ma in caserma rimangono a lungo anche i genitori di Maria",
+            "document_id": 2202,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Bimba morta in piscina nel Beneventano , l'autopsia rivela : prima del delitto \u00e8 stata violentata",
+            "document_id": 2187,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Gli investigatori devono ricostruire un arco di tempo di cinque ore , dalle 19 di domenica scorsa ( ora presunta della sparizione della bimba visto l'allarme del padre ) al rinvenimento del corpicino , avvenuto a mezzanotte .",
+            "document_id": 2195,
+            "blame_perception": "low"
+        }
+    ],
+    "676": [
+        {
+            "split": "train+dev",
+            "sentence": "Perci\u00f2 per gli investigatori al momento risulta ancora difficile capire se dalla casa sia stato portato via qualcosa da qualcuno e se si tratti di un omicidio piuttosto che di un suicidio .",
+            "document_id": 2790,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccisa in casa : 20 anni a omicida",
+            "document_id": 2767,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Un fermo per donna uccisa a Milano",
+            "document_id": 2778,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Tiziana Pavani , 54 anni , segretaria nella non lontana scuola elementare di Sant'\u0080\u0099Anselmo da Baggio , \u00e8 stata trovata morta gioved\u00ec nell'\u0080\u0099appartamento della scala D di via Bagarotti 44 , un palazzo popolare che aveva avuto problemi di amianto .",
+            "document_id": 2785,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Donna uccisa in casa a Milano , fermato un amico trentenne : ha confessato",
+            "document_id": 2780,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Ha raccontato di aver conosciuto la sua vittima circa 4 anni fa su un sito di incontri .",
+            "document_id": 2781,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Gli inquirenti partono dall'ipotesi di una morte violenta e sono al lavoro per capire se si tratti di un omicidio oppure di un suicidio .",
+            "document_id": 2791,
+            "blame_perception": "low"
+        }
+    ],
+    "524": [
+        {
+            "split": "train+dev",
+            "sentence": "OMICIDIO AMERICANA , IN TANTI AI FUNERALI",
+            "document_id": 1038,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "L \u2019 unico imputato per l \u2019 omicidio della 35enne \u00e8 Check Diaw , il senegalese che era stato con la ragazza la notte prima della morte e che secondo l \u2019 accusa l \u2019 avrebbe colpita in testa e poi strangolata , lasciandola senza vita nel monolocale .",
+            "document_id": 1002,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Deve arrivare domani la sentenza per la morte della 35enne statunitense Ashley Olsen , trovata senza vita nella sua casa in affitto di Firenze l \u2019 8 gennaio del 2016 .",
+            "document_id": 1002,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Ashley , assassino incastrato da Dna",
+            "document_id": 1066,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio Ashley , al via il processo .",
+            "document_id": 1012,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Secondo una ricostruzione ancora provvisoria dell'accaduto , Ashley Olsen sarebbe stata trovata nella camera da letto .",
+            "document_id": 1134,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Giovane statunitense strangolata in casa a Firenze , trovata dal fidanzato",
+            "document_id": 1129,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio Ashley : ultimo saluto a Firenze",
+            "document_id": 1040,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Firenze , chiesto l'ergastolo per Diaw il senegalese accusato di aver ucciso Ashley",
+            "document_id": 1004,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Ci sono due elementi - la temperatura corporea e l \u2019 umor vitreo - che restringono ulteriormente il campo : il momento pi\u00f9 probabile della morte sarebbe tra le 12 e le 12.30 .",
+            "document_id": 1017,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio Ashley , nuove immagini di Cheik che lascia l'appartamento della donna",
+            "document_id": 1022,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "E ' stata trovata morta , da ore , con segni di graffi ed ecchimosi sul collo .",
+            "document_id": 1137,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Svolta nelle indagini sulla morte di Ashley Olsen , la 35enne americana trovata senza vita sabato nella sua casa a Firenze .",
+            "document_id": 1067,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Saranno forse le telecamere posizionate nella zona dove Ashley Olson viveva a dare un volto e un nome all'assassino dell'americana 35enne , trovata senza vita sabato notte .",
+            "document_id": 1052,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Americana uccisa in casa .",
+            "document_id": 1126,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Una donna americana di 35 \u00e8 stata trovata uccisa , probabilmente strangolata secondo i primi rilievi del medico legale , nel suo appartamento nel centro storico di Firenze .",
+            "document_id": 1130,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Il decesso , provocato da strozzamento e da due fratture al cranio \u00e8 stato quasi istantaneo e deve essere collocato fra le 9 e le 15 : la temperatura corporea e l'analisi dell'umor vitreo fanno ritenere , come ipotesi pi\u00f9 probabile , che la giovane americana abbia cessato di vivere fra le 12 e le 12,30 .",
+            "document_id": 1018,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio Ashley , 30 anni a Cheik Diaw",
+            "document_id": 999,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Firenze , omicidio Ashley : si cerca uno spacciatore",
+            "document_id": 1076,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Altri accertamenti di tipo tecnico verranno fatti nei prossimi giorni , tra l'altro verranno osservati i filmati delle telecamere di sicurezza , in particolare di una piazzata in via dei Serragli , poco distante dall'ingresso della casa dove \u00e8 avvenuto il delitto .",
+            "document_id": 1122,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Non c ' \u00e8 ancora la conferma di un rapporto sessuale avvenuto prima della morte , ma diversi indizi ipotizzano che Ashley possa essere stata indotta a compiere un gioco erotico con il suo omicida , o che lo stesso possa averla violentata .",
+            "document_id": 1082,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Americana uccisa a Firenze , fermato spacciatore : decisivo esame del Dna",
+            "document_id": 1067,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Omicidio Ashley : testimonia il fidanzato",
+            "document_id": 1009,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Omicidio Ashley : gip , giudizio immediato",
+            "document_id": 1013,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Forse lo stesso uomo con cui poi la vittima si sarebbe allontanata .",
+            "document_id": 1080,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Un omicidio d'impeto .",
+            "document_id": 1045,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Omicidio di Ashley Olsen , il 27enne fermato : non volevo ucciderla",
+            "document_id": 1057,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Ashley \u00e8 stata vittima di un omicidio d'impeto , non premeditato , maturato in un contesto in evoluzione , forse una discussione , una lite degenerata tanto che l'assassino ha poi agito finendo per strangolare la giovane americana trovata uccisa a Firenze .",
+            "document_id": 1128,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "\u00c8\u0088 un pusher il presunto assassino di Ashley Olsen , la trentacinquenne americana uccisa nella sua casa a Firenze .",
+            "document_id": 1073,
+            "blame_perception": "high"
+        }
+    ],
+    "668": [
+        {
+            "split": "train+dev",
+            "sentence": "Duplice omicidio di San Prospero , una settimana di indagini serrate",
+            "document_id": 2705,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Luca Manici sarebbe stata assassinata per eliminare un testimone e forse per vendetta perch\u00e9 l'Altamirano frequentava il suo club anche dopo la separazione da Turco avvenuta qualche settimana prima .",
+            "document_id": 2702,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Aveva anche dei segni di graffi sul volto , che ha giustificato dicendo di essere stato vittima di una presunta aggressione .",
+            "document_id": 2704,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Parma , donna e trans cadaveri in un casale : doppio omicidio",
+            "document_id": 2691,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "L'omicidio di Manici e della Altamirano sarebbe avvenuto la sera del 25 dicembre .",
+            "document_id": 2695,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Duplice omicidio Parma , ecco i nomi",
+            "document_id": 2696,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Parma , duplice omicidio in casale a luci rosse",
+            "document_id": 2693,
+            "blame_perception": "low"
+        }
+    ],
+    "564": [
+        {
+            "split": "train+dev",
+            "sentence": "Uccise e bruci\u00f2 la ex : chiesti 5 milioni",
+            "document_id": 1786,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Pochi giorni prima dell'\u0080\u0099omicidio Sara aveva persino deciso di cambiare la password di Facebook .",
+            "document_id": 1784,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Le amiche di Sara ricordano quell'\u0080\u0099episodio , come '\u0080\u009cinquietante'\u0080\u009d .",
+            "document_id": 1784,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "L \u2019 omicidio di Sara Di Pietrantonio \u00e8 raccapricciante , un atto cos\u00ec efferato da sembrare inverosimile , irreale eppure \u00e8 successo davvero e quello che racconta il suo assassino lo rende ancora pi\u00f9 macabro e folle .",
+            "document_id": 1907,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Non deve essere un esempio quello che \u00e8 accaduto a Sara - ha concluso - ma quello che era lei .",
+            "document_id": 1834,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Ma mi hanno spiegato che accade spesso .",
+            "document_id": 1915,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Vincenzo Paduano , 27 anni , ha confessato l'omicidio della sua ex fidanzata , Sara Di Pietrantonio , la 22enne trovata morta carbonizzata domenica all'alba alla Magliana , a Roma .",
+            "document_id": 1932,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "E ' ancora in attesa dei risultati delle analisi sui tessuti il team di medici coordinati dal professor Giorgio Bolino per determinare con esattezza la dinamica che ha condotto alla morte di Sara Di Pietrantonio , la ragazza di 22 anni , studentessa di Economia Aziendale a Roma 3 , brutalmente uccisa dal suo ex fidanzato all'alba di domenica 22 maggio scorso .",
+            "document_id": 1872,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Sono le sole due parole dette da Vincenzo Paduano , l'\u0080\u0099assassino della 22enne Sara Di Pietrantonio , uccisa e bruciata nel maggio dell'\u0080\u0099anno scorso nel corso delle dichiarazioni spontanee rese davanti al gup nel corso del giudizio abbreviato con cui il 27enne ha chiesto di essere giudicato per l'\u0080\u0099omicidio della ex fidanzata , cui diede fuoco al cadavere dopo averla uccisa a botte al termine di un agguato .",
+            "document_id": 1781,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "UCCISE EX FIDANZATA .",
+            "document_id": 1799,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Ragazza uccisa : \u00e8 stata bruciata viva",
+            "document_id": 1955,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Se fossero stati testimoni dell'aggressione , poi drammaticamente sfociata nell'omicidio , di Sara Di Pietrantonio , la ragazza bruciata viva alla Magliana , nel confronto su Sky i candidati a sindaco di Roma si dividono sui possibili comportamenti .",
+            "document_id": 1919,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "E tra gli esami tecnici ancora in corso , oltre a quelli di natura autoptica ( esami del sangue e dei polmoni di Sara per stabilire con certezza se fosse morta quando \u00e8 stata avvolta dalle fiamme ) , ci sono anche quelli sui telefoni cellulari della ragazza e del suo ex .",
+            "document_id": 1874,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "A breve dovrebbe essere consegnata in procura anche la perizia per accertare il liquido infiammabile usato da Vincenzo Paduano per appiccare le fiamme come ultimo sfregio a Sara , punita perch\u00e9 si era permessa di lasciarlo ed uscire quella sera con un altro amico , un nuovo fidanzatino con il quale si era scambiata un bacio .",
+            "document_id": 1821,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio Di Pietrantonio , un documentario per raccontare la storia di Sara",
+            "document_id": 1755,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccise e bruci\u00f2 la ex fidanzata , Paduano condannato all'ergastolo",
+            "document_id": 1773,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "L'omicidio di Sara non \u00e8 premeditato .",
+            "document_id": 1889,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Secondo i risultati dell'autopsia , Sara era quasi certamente morta quando l'ex fidanzato le ha dato fuoco .",
+            "document_id": 1888,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio di Sara , chiesto l'ergastolo per l'ex fidanzato che le diede fuoco",
+            "document_id": 1791,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Roma , uccisa dall'ex sulla Magliana : a breve chiusura indagini sulla morte di Sara",
+            "document_id": 1820,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "E secondo il procuratore aggiunto Maria Monteleone , Sara sarebbe ancora viva se qualcuno avesse risposto alle sue grida di aiuto mentre cercava di divincolarsi e scappare dalla furia del suo ex .",
+            "document_id": 1946,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccisa dall'ex fidanzato , l'autopsia : Sara \u00e8 morta prima di essere bruciata",
+            "document_id": 1853,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Chiesto l'ergastolo per l'assassino di Sara , l'ex ragazza data alle fiamme",
+            "document_id": 1792,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Anche il 28 maggio ( poche ore dopo l'avrebbe uccisa , ndr ) quando \u00e8 venuto a casa per parlare con Sara \u00e8 andato via senza salutarmi con la testa china , bofonchiando qualcosa .",
+            "document_id": 1845,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Sara aggredita dall'ex fidanzato una settimana prima dell'omicidio",
+            "document_id": 1874,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Tragedia Sara \u00e8 film , stop femminicidi",
+            "document_id": 1756,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Omicidio Di Pietrantonio : la confessione del Killer \u00e8 da brividi",
+            "document_id": 1907,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "OMICIDIO MAGLIANA , DOMANI INTERROGATORIO GARANZIA PER PADUANO",
+            "document_id": 1927,
+            "blame_perception": "low"
+        }
+    ],
+    "624": [
+        {
+            "split": "train+dev",
+            "sentence": "Donna uccisa in Brianza , omicida ammette",
+            "document_id": 2401,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Poi , probabilmente al culmine di una lite , Berlingeri avrebbe estratto un revolver Smith and Weston e sparato due volte al petto della Aparo , morta in ospedale un'ora pi\u00f9 tardi .",
+            "document_id": 2399,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "A ferire a morte Carmela Aparo , 64 anni , di Seregno , \u00e8 stato l'\u0080\u0099ex convivente , Attilio Berlingeri , di 56 , al culmine di una violenta lite , alle 19.15 di luned\u00ec .",
+            "document_id": 2404,
+            "blame_perception": "high"
+        }
+    ],
+    "662": [
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio Cernusco , il killer chiese aiuto a un amico al bar : insieme si disfarono del corpo di Gabriella",
+            "document_id": 2638,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "E ' quella passionale la pista privilegiata dagli investigatori per dare un nome a chi ucciso Gabriella Fabbiano , la donna di 43 anni trovata morta in una cava a Cernusco sul Naviglio nel Milanese .",
+            "document_id": 2617,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Sul cadavere non sono stati trovati segni evidenti di violenza collegabili al decesso e gli inquirenti hanno disposto anche gli accertamenti tossicologici .",
+            "document_id": 2618,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Ha raccontato che l'omicidio \u00e8 avvenuto all'interno del suo appartamento la sera del 30 novembre al termine di una lite scoppiata per gelosia .",
+            "document_id": 2643,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Dagli accertamenti \u00e8 emerso anche che la vittima , due anni fa , aveva denunciato ai carabinieri di aver subito violenza da parte dell'\u0080\u0099ex marito proprio nella stessa cava in cui \u00e8 stata trovata cadavere il 5 dicembre .",
+            "document_id": 2635,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio di Cernusco , si cerca l'arma del delitto",
+            "document_id": 2628,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio di Cernusco , arrestate due persone",
+            "document_id": 2643,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Omicidio Cernusco , Gabriella Fabbiano denunci\u00f2 di essere stata violentata dall'ex marito nella cava",
+            "document_id": 2636,
+            "blame_perception": "high"
+        }
+    ],
+    "473": [
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio di Asti , ha confessato l'assassino della tabaccaia",
+            "document_id": 462,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Tabaccaia uccisa , cordoglio su Facebook",
+            "document_id": 426,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Asti , la ricostruzione dell'omicidio della tabaccaia : il killer ha agito in 7 minuti",
+            "document_id": 409,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Tabaccaia uccisa : la svolta dopo venti giorni di indagini",
+            "document_id": 466,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Tabaccaia uccisa , un solo killer",
+            "document_id": 425,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Sette minuti per uccidere e sparire Asti , nessuno ha visto il killer della tabaccaia",
+            "document_id": 410,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Asti , l'assassino ha chiuso a chiave e poi ha ucciso la tabaccaia",
+            "document_id": 412,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Sono le parole pronunciate dalla cugina della tabaccaia uccisa a coltellate ad Asti .",
+            "document_id": 442,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Asti , il giallo della tabaccaia massacrata con 25 coltellate",
+            "document_id": 398,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "\u00c8 arrivato questa mattina , venerd\u00ec , il nulla osta per i funerali di Maria Luisa Fassi , la donna uccisa con 45 coltellate nella tabaccheria di corso Volta .",
+            "document_id": 452,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Asti , tabaccaia uccisa : l'ansia del killer Le riprese poco prima del delitto",
+            "document_id": 481,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Maria Luisa Fassi , la tabaccaia di 54 anni , accoltellata questa mattina nel suo negozio nel centro di Asti , \u00e8 morta nel tardo pomeriggio all'ospedale 'Cardinal Massaia ' .",
+            "document_id": 406,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "PRESO ASSASSINO TABACCAIA UCCISA",
+            "document_id": 468,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Tabaccaia accoltellata a morte ad Asti , caccia al killer",
+            "document_id": 399,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Tabaccaia uccisa , via sigilli al negozio",
+            "document_id": 484,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Asti , tutti i misteri del killer invisibile .",
+            "document_id": 411,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Nel carcere di Asti il killer della tabaccaia piange e rifiuta il cibo",
+            "document_id": 477,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Quando ho finito era a terra , nel sangue , non so se era morta , ho afferrato i soldi che erano in cassa , pi\u00f9 o meno 800 euro , sono tornato a casa , alla ditta , poi ho lavato l'auto alla perfezione \u00bb .",
+            "document_id": 457,
+            "blame_perception": "high"
+        }
+    ],
+    "586": [
+        {
+            "split": "train+dev",
+            "sentence": "Il fatto \u00e8 accaduto nell'appartamento di una palazzina a due piani , in via Monsignor Passerini , nel centro del paese .",
+            "document_id": 2230,
+            "blame_perception": "low"
+        }
+    ],
+    "549": [
+        {
+            "split": "train+dev",
+            "sentence": "Uccide la moglie a colpi di pistola .",
+            "document_id": 1674,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Roma , donna uccisa a colpi di pistola in un bar .",
+            "document_id": 1675,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Roma , uccide la moglie in un bar .",
+            "document_id": 1679,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Roma , donna uccisa a colpi di pistola in un bar : fermato l'omicida",
+            "document_id": 1676,
+            "blame_perception": "high"
+        }
+    ],
+    "574": [
+        {
+            "split": "train+dev",
+            "sentence": "A causa dello scoppio scoppio morirono la sua ex compagna Micaela Masella e una coppia di giovani fidanzati marchigiani vicini di casa .",
+            "document_id": 2154,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Riccardo e Chiara sono morti assieme nell'esplosione , causata proprio da una fuga di gas nella loro cucina .",
+            "document_id": 2062,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Un'inquilina della palazzina di via Brioschi , a Milano , esplosa il 12 giugno scorso provocando tre morti , avrebbe sentito quella stessa mattina un forte odore di gas .",
+            "document_id": 2082,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "La donna \u00e8 morta a giugno nell'\u0080\u0099esplosione della palazzina di via Brioschi causata dal suo compagno , Giuseppe Pellican\u00f2 , ora in carcere .",
+            "document_id": 2140,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Il pm Elio Ramondini ha chiuso l'indagine , con le ipotesi di strage e devastazione , per Giuseppe Pellican\u00f2 , accusato di avere causato , il 12 giugno scorso , l'esplosione della palazzina di via Brioschi , a Milano , che ha provocato la morte dell'ex compagna Micaela Masella e di una coppia di giovani fidanzati marchigiani , vicini di casa .",
+            "document_id": 2145,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Il gip di Milano Giusy Barbara ha accolto la richiesta del pm Elio Ramondini ed ha disposto una perizia psichiatrica su Giuseppe Pellican\u00f2 , il pubblicitario ora in carcere per strage , che la notte tra l'\u0080\u009911 e il 12 giugno scorso ha svitato il tubo del gas nell'\u0080\u0099appartamento dove viveva con le figlie e la ex compagna , poi morta con altri due ragazzi vicini di casa per l'\u0080\u0099esplosione della palazzina di via Brioschi .",
+            "document_id": 2138,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Il pm di Milano Elio Ramondni ha chiesto la convalida del fermo e l'applicazione della misura della custodia cautelare in carcere per Giuseppe Pellican\u00f2 , il pubblicitario fermato ieri su disposizione della Procura con l'accusa di strage per l'esplosione della palazzina di via Brioschi nella quale il 12 giugno scorso sono morti l'ex compagna Micaela Masella e una coppia di giovani fidanzati marchigiani , Riccardo Maglianesi e Chiara Magnamassa .",
+            "document_id": 2110,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Giuseppe Pellican\u00f2 , il pubblicitario fermato due giorni fa con l'accusa di strage per l'esplosione della palazzina di Milano nella quale sono morti l'ex compagna e una coppia di fidanzati , non ricorda l'accaduto .",
+            "document_id": 2118,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Oltre alla ex compagna dell'uomo , nella deflagrazione hanno perso la vita Riccardo Maglianesi , 27 anni , di Morrovalle ( Macerata ) , e la sua fidanzata Chiara Magnamassa , di 22 , di Monte San Giusto ( Macerata ) .",
+            "document_id": 2109,
+            "blame_perception": "low"
+        }
+    ],
+    "622": [
+        {
+            "split": "train+dev",
+            "sentence": "Non si trova l'\u0080\u0099arma usata per uccidere Gianna Del Gaudio , la sessantatreenne trovata accoltellata poco prima dell'\u0080\u00991 della notte scorsa nella sua casa di Seriate ( Bergamo ) .",
+            "document_id": 2360,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "E ' lui l'unico testimone dell'accaduto .",
+            "document_id": 2354,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Antonio Tizzani , il marito della professoressa Gianna Del Gaudio uccisa in casa sua a Seriate ( Bergamo ) il 26 agosto scorso , non esclude che ci siano collegamenti con un altro omicidio avvenuto a Colognola , sempre in provincia di Bergamo , dove il 20 dicembre scorso \u00e8 stata uccisa , nell'androne di casa , Daniela Roveri , di 48 anni .",
+            "document_id": 2389,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Ex insegnante uccisa a coltellate .",
+            "document_id": 2357,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Donna uccisa , perquisita casa del figlio",
+            "document_id": 2374,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Donna uccisa : parroco , killer confessi",
+            "document_id": 2369,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Ci potrebbe essere una svolta nel giallo di Seriate , sull \u2019 omicidio dell \u2019 insegnante Gianna del Gaudio , uccisa da una sola coltellata alla gola nella sua casa di Seriate nella notte fra il 26 ed il 27 agosto .",
+            "document_id": 2378,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Delitto di Seriate , forse una svolta : trovato un coltello in una siepe , forse arma del delitto",
+            "document_id": 2378,
+            "blame_perception": "low"
+        }
+    ],
+    "575": [
+        {
+            "split": "train+dev",
+            "sentence": "Stamattina , poco prima delle 11 , Aniello Lamberti , 59 anni , ha ucciso la moglie , Angelina Fusco , 56 , insegnante di scuola media , con due colpi di una pistola .",
+            "document_id": 2173,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccide la moglie a colpi di pistola , poi si lancia dalla finestra",
+            "document_id": 2169,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Nuovo femminicidio , un medico spara e uccide la moglie , poi si lancia nel vuoto nel Napoletano",
+            "document_id": 2173,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Lui che uccide lei con due colpi di pistola e poi sale sul terrazzo e si lancia di sotto morendo sul colpo nel cortile interno della palazzina della famiglia .",
+            "document_id": 2169,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Palma Campania , omicidio - suicidio : ammazza la moglie e poi si lancia dal balcone|",
+            "document_id": 2170,
+            "blame_perception": "high"
+        }
+    ],
+    "557": [
+        {
+            "split": "train+dev",
+            "sentence": "La tragedia annunciata via sms",
+            "document_id": 1724,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "40 fendenti per uccidere l'ex moglie",
+            "document_id": 1727,
+            "blame_perception": "high"
+        }
+    ],
+    "538": [
+        {
+            "split": "train+dev",
+            "sentence": "Uccide moglie e si consegna a Cc",
+            "document_id": 1601,
+            "blame_perception": "high"
+        }
+    ],
+    "458": [
+        {
+            "split": "train+dev",
+            "sentence": "La vittima \u00e8 la moglie , Angela Della Torre , 49 anni , deceduta il 29 dicembre del 2015 in una clinica di Telese Terme .",
+            "document_id": 960,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Svolta nelle indagini per la morte di Angela Della Torre , 49enne di Castellabate ( Salerno ) morta il 29 dicembre 2015 dopo una lite con il marito .",
+            "document_id": 961,
+            "blame_perception": "low"
+        }
+    ],
+    "426": [
+        {
+            "split": "train+dev",
+            "sentence": "A compiere l'omicidio , avvenuto gioved\u00ec sera , secondo la testimonianza dei vicini di casa , sarebbe stato l'ex marito Marco Quarta , 30 anni , con divieto di avvicinamento alla moglie , dopo una denuncia per maltrattamenti dell'estate scorsa .",
+            "document_id": 167,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Nega la premeditazione Marco Quarta , l'immobiliarista arrestato per l'omicidio dell'ex moglie Carmela Morlino avvenuto il 12 marzo scorso a Zivignago di Pergine .",
+            "document_id": 185,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccide ex in Trentino : marted\u00ec funerali",
+            "document_id": 172,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "A dare l'allarme i vicini di casa , che hanno sentito le urla , e poi hanno trovato la donna a terra , ormai morta .",
+            "document_id": 180,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccise ex : 4 anni maltrattamenti figlio",
+            "document_id": 188,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Secondo il Ministero degli Interni dopo un anno e mezzo dall \u2019 entrata in vigore della legge 119/2013 sul femminicidio , che ha inasprito le misure contro la violenza di genere e lo stalking , i reati di maltrattamenti in famiglia o verso minori sono passati da 11.991 a 12.125 , e in otto casi su dieci la vittima \u00e8 di sesso femminile .",
+            "document_id": 184,
+            "blame_perception": "low"
+        }
+    ],
+    "766": [
+        {
+            "split": "train+dev",
+            "sentence": "Dalle successive indagini \u00e8 per\u00f2 emerso che Alessandra potrebbe essere rimasta vittima di un tragico incidente .",
+            "document_id": 3387,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "La morte violenta della 24enne ha sconvolto Melito , dove abitava , e sono numerosi i messaggi di cordoglio lasciati sulla sua bacheca Facebook dove , sino a ieri , sono state postate foto di un recente viaggio compiuto all'estero .",
+            "document_id": 3388,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Tenta suicidio madre della giovane morta .",
+            "document_id": 3388,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "La ragazza \u00e8 morta poco dopo il ricovero .",
+            "document_id": 3384,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Resta agli arresti domiciliari Giuseppe Varriale , il 24 enne di Mugnano accusato di aver investito con la propria autovettura la sua ex fidanzata Alessandra Madonna , morta la mattina del 9 settembre all'ospedale San Giuliano di Giugliano .",
+            "document_id": 3396,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Trascina l'ex con l'auto e la uccide , gip convalida arresto : ai domiciliari per omicidio volontario",
+            "document_id": 3395,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Ancora in itinere l'esatta ricostruzione dei fatti che ha portato alla morte di Alessandra .",
+            "document_id": 3383,
+            "blame_perception": "low"
+        }
+    ],
+    "418": [
+        {
+            "split": "train+dev",
+            "sentence": "Professoressa uccisa a martellate , fermato vicino di casa",
+            "document_id": 151,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "La vittima , Pasqualina Sica , aveva 59 anni e insegnava in un istituto tecnico di Marcianise .",
+            "document_id": 150,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Prof uccisa a martellate : Il killer \u00e8 il vicino di casa",
+            "document_id": 154,
+            "blame_perception": "high"
+        }
+    ],
+    "734": [
+        {
+            "split": "train+dev",
+            "sentence": "Ha invitato la ex fidanzata e il suo nuovo compagno per cena , poi ha cercato di drogarli e infine li ha uccisi accanendosi in particolare con tanta violenza sull'\u0080\u0099uomo .",
+            "document_id": 3067,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Ingegnere napoletano ucciso a Mestre insieme alla sua fidanzata",
+            "document_id": 3068,
+            "blame_perception": "low"
+        }
+    ],
+    "505": [
+        {
+            "split": "train+dev",
+            "sentence": "Ventenne uccisa : Gip , delitto crudele",
+            "document_id": 696,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Mamma 20enne uccisa nel Catanese , confessa l'ex compagno",
+            "document_id": 677,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Una femminicidio solo apparentemente imprevisto .",
+            "document_id": 678,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Ventenne uccisa : lascia figlia 4 anni",
+            "document_id": 685,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "L'omicidio di Giordana Di Stefano : uccisa con trenta coltellate",
+            "document_id": 661,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "UCCISA , PM : PROCESSO STALKER NON DETERRENTE",
+            "document_id": 665,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "E ' stato fermato a Milano e ha confessato Luca Priolo , l'ex compagno di Giordana Di Stefano , la mamma ventenne uccisa a Nicolosi , in provincia di Catania .",
+            "document_id": 677,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Catania , ventenne uccisa a coltellate in auto .",
+            "document_id": 687,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Omicidio Nicolosi , dopo la confessione si cerca l'arma",
+            "document_id": 670,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Ventenne uccisa : lettera madre assassino",
+            "document_id": 691,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Ventenne uccisa nel catanese : iniziati funerali , chiesta stracolma",
+            "document_id": 654,
+            "blame_perception": "low"
+        }
+    ],
+    "756": [
+        {
+            "split": "train+dev",
+            "sentence": "Cleric\u00f2 , che ha ammesso di aver occultato nel suo orto il cadavere di Marilena Re , ha per\u00f2 respinto il coinvolgimento nel suo omicidio sostenendo il coinvolgimento di un'altra persona .",
+            "document_id": 3165,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Varese , promoter uccisa : secondo l'autopsia colpita ripetutamente alla testa , decapitata e ricoperta di cemento",
+            "document_id": 3182,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Promoter uccisa , accertamenti nell'orto",
+            "document_id": 3175,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Il cadavere decapitato di Marilena Rosa Re , 58 anni , la promoter di Castellanza ( Varese ) scomparsa lo scorso 30 luglio , \u00e8 stato trovato sepolto nell'\u0080\u0099orto di Vito Clerico , il 65enne di Garbagnate Milanese ( Milano ) fermato ieri per l'\u0080\u0099omicidio e l'\u0080\u0099occultamento del cadavere .",
+            "document_id": 3158,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Garbagnate , ossa in un sacchetto : potrebbero essere della promoter uccisa",
+            "document_id": 3177,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Il cadavere decapitato di Marilena Rosa Re , 58 anni , la promoter di Castellanza ( Varese ) scomparsa lo scorso 30 luglio , \u00e8 stato trovato sepolto nell'orto di Vito Cleric\u00f3 , il 65enne di Garbagnate Milanese ( Milano ) fermato ieri per l'omicidio e l'occultamento del cadavere .",
+            "document_id": 3156,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Promoter uccisa : Cleric\u00f2 da pm",
+            "document_id": 3185,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Il cadavere di Marilena Rosa Re , la promoter 58enne del Varesotto scomparsa dallo scorso luglio , \u00e8 stato trovato decapitato nell'orto dell'uomo fermato per il suo omicidio .",
+            "document_id": 3154,
+            "blame_perception": "high"
+        }
+    ],
+    "402": [
+        {
+            "split": "train+dev",
+            "sentence": "Uccisa nel Sannio , pista passionale",
+            "document_id": 15,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "I carabinieri stanno interrogando familiari e conoscenti della vittima e del 34enne .",
+            "document_id": 13,
+            "blame_perception": "low"
+        }
+    ],
+    "765": [
+        {
+            "split": "train+dev",
+            "sentence": "Questo fa quindi escludere che la giovane , come invece era stato detto in un primo momento , sia deceduta per i colpi inferti con una pietra in testa .",
+            "document_id": 3288,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "16ENNE UCCISA , OMICIDA : VOLEVA UCCIDERCI",
+            "document_id": 3264,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Cos\u00ec \u00e8 morta la sedicenne di Specchia ( Lecce ) Noemi Durini , scomparsa 10 giorni fa da Specchia e uccisa dal fidanzato di un anno pi\u00f9 grande .",
+            "document_id": 3254,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "L'accertamento sulle cause della morte \u00e8 abbastanza difficile .",
+            "document_id": 3323,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "La salma di Noemi Durini , la sedicenne scomparsa da Specchia ( Le ) il 3 settembre scorso e ritrovata morta dieci giorni dopo nelle campagne di Castrignano del Capo ( Le ) , \u00e8 stata restituita ieri sera ai familiari .",
+            "document_id": 3327,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "FIDANZATO NOEMI CONFESSA : L'HO UCCISA",
+            "document_id": 3246,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio Noemi , l'autopsia : lesioni provocate da oggetti diversi",
+            "document_id": 3341,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Il pm del Tribunale per i Minorenni di Lecce Anna Carbonara ha depositato una richiesta di incidente probatorio a carico di Lucio , il 17enne di Montesardo reo confesso dell'\u0080\u0099omicidio di Noemi Durini , la 16enne di Specchia il cui corpo \u00e8 stato trovato dopo 10 giorni dalla scomparsa , il 13 settembre , sotto un cumulo di pietre in una campagna di Castrignano del Capo .",
+            "document_id": 3373,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "La mancanza di elementi certi per stabilire la causa della morte ha indotto il medico legale nominato dalla Procura , Roberto Vaglio , e il consulente della famiglia della vittima , Francesco Introna , a compiere esami istologici e cito-chimici sui tessuti prelevati dal cadavere , oltre all'\u0080\u0099esame delle larve per accertare con esattezza il giorno e l'\u0080\u0099ora della morte .",
+            "document_id": 3330,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Sono invece state tagliate dall'\u0080\u0099intervista molte parti offensive nei confronti di una sedicenne uccisa barbaramente , per rispetto dei suoi casi e della sua memoria \u00bb .",
+            "document_id": 3279,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Omicidio di Noemi , anche il Pm chiede la perizia per Lucio",
+            "document_id": 3370,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Omicidio Noemi , trasferimento imminente fuori Puglia per fidanzato",
+            "document_id": 3315,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "E ' stata prima picchiata e poi accoltellata : cos\u00ec \u00e8 morta , secondo quanto riferisce l'autopsia , la giovane Noemi Durini , uccisa dal fidanzato , reo confesso .",
+            "document_id": 3361,
+            "blame_perception": "high"
+        }
+    ],
+    "468": [
+        {
+            "split": "train+dev",
+            "sentence": "L'omicidio \u00e8 avvenuto nell'abitazione della coppia a Belvedere Spinello , nel Crotonese .",
+            "document_id": 372,
+            "blame_perception": "low"
+        }
+    ],
+    "771": [
+        {
+            "split": "train+dev",
+            "sentence": "La ragazza era ricoverata nella terapia intensiva del reparto di rianimazione degli Ospedali Riuniti di Foggia dove i medici , anche in nottata , hanno tentato il tutto per tutto strappandola alla morte pi\u00f9 volte .",
+            "document_id": 3417,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Saranno celebrati domani pomeriggio alle 15.30 nella chiesa madre ad Ischitella i funerali di Nicolina Pacini , la 15enne uccisa con un colpo di pistola al volto dall'ex compagno della mamma .",
+            "document_id": 3428,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "La ragazza \u00e8 morta poco prima delle 7 di questa mattina per un ennesimo arresto cardiaco .",
+            "document_id": 3420,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Vive la vita nuova , la vita con Dio .",
+            "document_id": 3429,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "La ragazza \u00e8 morta poco prima delle 7 di gioved\u00ec mattina dopo l'ennesimo arresto cardiaco .",
+            "document_id": 3422,
+            "blame_perception": "low"
+        }
+    ],
+    "605": [
+        {
+            "split": "train+dev",
+            "sentence": "Fu la stessa Vania Vannucchi a fare il nome di Russo prima di essere trasferita all'\u0080\u0099ospedale di Cisanello dove mor\u00ec il giorno seguente a causa delle ustioni che ne avevano devastato oltre il 90 per cento del corpo .",
+            "document_id": 2333,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Lucca : morta la donna data alle fiamme",
+            "document_id": 2302,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Femminicidio , le paure di Vania in fuga da quell'uomo diventato violento",
+            "document_id": 2317,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Sembra ormai certo , pero ' , che Pasquale Russo e Vania Vannucchi si fossero dati appuntamento per questa mattina di fronte al vecchio ospedale dove si e ' poi consumata la tragedia .",
+            "document_id": 2303,
+            "blame_perception": "low"
+        }
+    ],
+    "428": [
+        {
+            "split": "train+dev",
+            "sentence": "Donna uccisa : omicida forse \u00e8 morto",
+            "document_id": 210,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "La donna \u00e8 stata uccisa a coltellate .",
+            "document_id": 214,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Marcella Caruso potrebbe essere stata picchiata prima della morte .",
+            "document_id": 204,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Non un tentativo di suicidio , perch\u00e9 sulla strada ci sono tracce di frenata .",
+            "document_id": 208,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Donna uccisa nel Beneventano : cadavere in pozzo , forse e ' omicida",
+            "document_id": 205,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Suicida dopo omicidio della 39 enne",
+            "document_id": 209,
+            "blame_perception": "high"
+        }
+    ],
+    "515": [
+        {
+            "split": "train+dev",
+            "sentence": "Novantenne soffoca la moglie , poi tenta il suicidio",
+            "document_id": 905,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Dopo aver ucciso la moglie , Lia Cotronea , 88 anni , aveva aperto il gas del suo alloggio ma era stato fermato dalla polizia .",
+            "document_id": 904,
+            "blame_perception": "high"
+        }
+    ],
+    "449": [
+        {
+            "split": "train+dev",
+            "sentence": "Napoli , maresciallo dei carabinieri uccide moglie e figlio di 11 anni poi si toglie la vita",
+            "document_id": 304,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Famiglia sterminata dal padre carabiniere , al Vomero i funerali di mamma e figlio",
+            "document_id": 299,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Strage a piazza Dante : carabiniere uccide moglie e figlio e si suicida",
+            "document_id": 301,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Il fatto \u00e8 accaduto a Napoli , in Vico Bagnara , nei pressi della centrale piazza Dante .",
+            "document_id": 302,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Omicidio-suicidio a Napoli : carabiniere uccide la moglie , il figlio e si spara",
+            "document_id": 302,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Omicidio-suicidio a Napoli : carabiniere uccide moglie e figlio e si spara",
+            "document_id": 303,
+            "blame_perception": "high"
+        }
+    ],
+    "587": [
+        {
+            "split": "train+dev",
+            "sentence": "Firenze , catturato il duplice omicida",
+            "document_id": 2241,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Firenze , uccide una trans e la sua amica : arrestato dopo un giorno di caccia all'uomo",
+            "document_id": 2237,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Le indagini , coordinate dal pm Daniela Cento , avrebbero portato gli inquirenti a ricostruire quanto successo all'alba del 29 giugno quando Alessi si rec\u00f2 nella casa di Kymberli - questo il nome con cui era conosciuto il transessuale - con il quale avrebbe avuto una vera e propria relazione , segnata per\u00f2 dalla continua richiesta di denaro nei suoi confronti .",
+            "document_id": 2247,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Duplice omicidio a Firenze , identificato il presunto assassino : preso l'uomo",
+            "document_id": 2238,
+            "blame_perception": "high"
+        }
+    ],
+    "697": [
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio-suicidio : autopsie per dinamica",
+            "document_id": 2899,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio-suicidio Orte , nel casco una lettera firmata anche da lei .",
+            "document_id": 2901,
+            "blame_perception": "low"
+        }
+    ],
+    "463": [
+        {
+            "split": "train+dev",
+            "sentence": "Albenga , uccide l ' ex compagna a coltellate e poi si toglie la vita Loredana e l'incubo-stalker foto",
+            "document_id": 349,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Albenga , uccisa dall'ex marito |",
+            "document_id": 350,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio-suicidio , marcia ad Albenga",
+            "document_id": 358,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccisa da ex , giudice neg\u00f2 3 volte arresto : indagine interna in Procura",
+            "document_id": 361,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Albenga , stalker arrestato e scarcerato uccide la moglie e poi si toglie la vita",
+            "document_id": 355,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "\u00c8 il magistrato che , il 28 aprile , ha accettato il patteggiamento a due anni di Mohamed Aziz el Mountassir , il marocchino che ad Albenga ha ucciso a coltellate la moglie Loredana Colucci davanti agli occhi della figlia di 13 anni , per poi togliersi la vita .",
+            "document_id": 346,
+            "blame_perception": "high"
+        }
+    ],
+    "454": [
+        {
+            "split": "train+dev",
+            "sentence": "Pochi i dubbi sulla dinamica sull'accaduto .",
+            "document_id": 324,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio-suicidio , venerd\u00ec le autopsie",
+            "document_id": 321,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Ravenna , ex guardia giurata uccide la compagna e si toglie la vita",
+            "document_id": 324,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Una sequenza di eventi che letta cos\u00ec , restituisce il gesto disperato di qualcuno che vuole portarsi dietro tutti i propri cari .",
+            "document_id": 324,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "I nomi delle due vittime sono Paola Fabbri e Marco Rossi .",
+            "document_id": 323,
+            "blame_perception": "low"
+        }
+    ],
+    "725": [
+        {
+            "split": "train+dev",
+            "sentence": "Milano , spara alla testa dell'ex compagna e tenta il suicidio : entrambi in coma",
+            "document_id": 3029,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "E ' successo intorno alle quattro del pomeriggio , in un parcheggio pubblico di via Benvenuto Cellini , a Segrate , nel Milanese .",
+            "document_id": 3027,
+            "blame_perception": "low"
+        }
+    ],
+    "482": [
+        {
+            "split": "train+dev",
+            "sentence": "In aula c ' \u00e8 Gianfranco Barbato , il padre di Livia , morta a 22 anni .",
+            "document_id": 572,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Anzi , c ' \u00e8 un altro dubbio : non \u00e8 chiaro neppure se fosse viva , prima che il conducente dell'auto azionasse una manovra suicida .",
+            "document_id": 563,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Napoli , ubriaco contromano : 20 anni di cella per omicidio volontario",
+            "document_id": 575,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Nell'impatto , avvenuto la notte tra 24 e 25 luglio del 2015 , morirono la fidanzata 20enne , Livia Barbato , e un'altra persona , Aniello Miranda , di 48 anni , che viaggiava sulla sua vettura .",
+            "document_id": 575,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Si chiama Marzia ed \u00e8 stata ascoltata come persona informata dei fatti lo scorso settembre , senza fornire - sembra - particolari utili a confermare eventuali dissidi interni alla coppia .",
+            "document_id": 565,
+            "blame_perception": "low"
+        }
+    ],
+    "776": [
+        {
+            "split": "train+dev",
+            "sentence": "Quando sono arrivati , i carabinieri lo hanno trovato accanto alla moglie , 30 anni , ormai morta per le gravissime ferite procurate .",
+            "document_id": 3507,
+            "blame_perception": "low"
+        }
+    ],
+    "513": [
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio Simonini : Cadei resta in carcere",
+            "document_id": 894,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Femminicidio , uccise la compagna a pugni e calci : bresciano condannato a 20 anni",
+            "document_id": 897,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Sul corpo di lei , nessun segno evidente di ferite da coltello o pistola : sarebbe stata ammazzata di botte .",
+            "document_id": 893,
+            "blame_perception": "low"
+        }
+    ],
+    "712": [
+        {
+            "split": "train+dev",
+            "sentence": "L'ha ammazzata per rubarle i soldi per comprarsi le dosi di cocaina .",
+            "document_id": 2990,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Lo ha detto Pierluigi Bonfiglio , arrestato per l'omicidio di Anna Carla Arecco , la donna di 86 anni il cui cadavere ha poi nascosto sotto il letto , durante l'interrogatorio davanti al gip di Genova .",
+            "document_id": 2993,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Anziana uccisa : fermato vicino di casa",
+            "document_id": 2987,
+            "blame_perception": "high"
+        }
+    ],
+    "413": [
+        {
+            "split": "train+dev",
+            "sentence": "Evade dal manicomio criminale : uccise la moglie a bastonate davanti ai figli",
+            "document_id": 136,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicida evade dal carcere Uccise la moglie a bastonate",
+            "document_id": 135,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Quando si \u00e8 verificato l'omicidio c'erano una quindicina di persone , per la maggior parte originari dell'est europeo , anche se non mancava qualche africano .",
+            "document_id": 131,
+            "blame_perception": "low"
+        }
+    ],
+    "438": [
+        {
+            "split": "train+dev",
+            "sentence": "Alessandria , ex poliziotto uccide due donne e poi muore nell'incendio dell'auto",
+            "document_id": 242,
+            "blame_perception": "high"
+        }
+    ],
+    "634": [
+        {
+            "split": "train+dev",
+            "sentence": "Sembrava ancora viva , ma era solo un'impressione purtroppo : al loro arrivo i soccorritori del 118 non hanno potuto fare altro che constatarne il decesso .",
+            "document_id": 2468,
+            "blame_perception": "low"
+        }
+    ],
+    "543": [
+        {
+            "split": "train+dev",
+            "sentence": "L'\u0080\u0099omicidio avvenne nel marzo dell'\u0080\u0099anno scorso nel loro appartamento a Sestri Ponente .",
+            "document_id": 1632,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Accoltell\u00f2 e uccise la moglie , la Corte Appello conferma 18 anni di reclusione",
+            "document_id": 1632,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccise la moglie che voleva lasciarlo , condannato a 18 anni di carcere",
+            "document_id": 1633,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Il ricordo e il dolore , in silenzio per non dimenticare la morte di Rosa Landi , la casalinga di 59 anni assassinata lo scorso 19 marzo da cinque colpi di pistola sparati dal marito Ciro Vitiello .",
+            "document_id": 1629,
+            "blame_perception": "high"
+        }
+    ],
+    "442": [
+        {
+            "split": "train+dev",
+            "sentence": "Pordenone , massacra la moglie con un'accetta poi uccide la figlia di 7 anni",
+            "document_id": 261,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Il fatto \u00e8 accaduto attorno alle 3 della notte scorsa in un'abitazione di via San Vito a Pordenone .",
+            "document_id": 259,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "I militari dell'Arma lo avevano allora convocato in caserma ammonendolo verbalmente ; Abdelhadi aveva ridimensionato il problema , garantito che la vicenda era stata ingigantita e si era congedato ricordando che la bimba era la propria ragione di vita .",
+            "document_id": 261,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Il fatto \u00e8 accaduto attorno alle 3 della notte in un'abitazione di via San Vito a Pordenone .",
+            "document_id": 261,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Pordenone , uccide moglie e figlia di 7 anni con un'accetta",
+            "document_id": 259,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Uccide moglie e figlia di 7 anni con un ' accetta",
+            "document_id": 257,
+            "blame_perception": "high"
+        }
+    ],
+    "678": [
+        {
+            "split": "train+dev",
+            "sentence": "Uccide la moglie , poi va a giocare alle slot .",
+            "document_id": 2807,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Questo ha raccontato l'\u0080\u0099uomo agli inquirenti che ora lo stanno interrogando e che stanno procedendo con l'\u0080\u0099ipotesi di omicidio .",
+            "document_id": 2804,
+            "blame_perception": "high"
+        }
+    ],
+    "612": [
+        {
+            "split": "train+dev",
+            "sentence": "La donna fu trovata massacrata nell'albergo Melograno di San Pietro in Casale , a pochi km dall'uscita autostradale di Altedo sulla A13 : i colpi sferrati una trentina , soprattutto al petto ; quelli mortali furono tre , gli altri sevizie inflitte con un cacciavite .",
+            "document_id": 2345,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Seviziata e uccisa in albergo nel Bolognese : il killer condannato a 30 anni",
+            "document_id": 2345,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Escort uccisa , condanna a 30 anni",
+            "document_id": 2344,
+            "blame_perception": "low"
+        }
+    ],
+    "607": [
+        {
+            "split": "train+dev",
+            "sentence": "Caserta , uccide la compagna e si costituisce ai carabinieri",
+            "document_id": 2338,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Femminicidio nel Casertano , uccide la compagna e si costituisce",
+            "document_id": 2341,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Caserta , donna uccisa dal convivente che poi si costituisce",
+            "document_id": 2342,
+            "blame_perception": "high"
+        }
+    ],
+    "532": [
+        {
+            "split": "train+dev",
+            "sentence": "Secondo l ' accusa , Di Mauro non sopportava le avance che il vicino di casa aveva pi\u00f9 volte fatto alla giovane con la quale aveva una relazione e per questo , dopo averlo pi\u00f9 volte minacciato , lo avrebbe ucciso .",
+            "document_id": 1578,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Vincenzo di Mauro era stato condannato a 11 anni di reclusione per omicidio : il 17 luglio del 2000 assassin\u00f2 un suo vicino di casa , Francesco Tirendi , di 47 anni , perch\u00e9 aveva insidiato la sua fidanzata allora diciassettenne .",
+            "document_id": 1578,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Femminicidio a Misterbianco , l'ex compagno non risponde al gip",
+            "document_id": 1581,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Misterbianco ( Catania ) , uccisa madre di tre bambini : fermato il convivente",
+            "document_id": 1568,
+            "blame_perception": "low"
+        }
+    ],
+    "764": [
+        {
+            "split": "train+dev",
+            "sentence": "LATINA , 23ENNE UCCISA AD AGOSTO : DUE ARRESTI PER L'OMICIDIO DI GLORIA POMPILI",
+            "document_id": 3222,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "La donna si era sentita male durante un viaggio in auto con il compagno e i figli piccoli : in ospedale avevano trovato un'ampia emorragia interna , causa del decesso e dovuta a percosse .",
+            "document_id": 3221,
+            "blame_perception": "high"
+        }
+    ],
+    "452": [
+        {
+            "split": "train+dev",
+            "sentence": "Tenta di aiutare l'amica durante la rapina ma viene uccisa a coltellate | Video choc",
+            "document_id": 317,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Come siano andate le cose al pm che segue le indagini , Clelia Mancuso , lo hanno raccontato le immagini della telecamera di sicurezza della pompa di benzina nei cui pressi si \u00e8 svolto l \u2019 omicidio .",
+            "document_id": 314,
+            "blame_perception": "low"
+        }
+    ],
+    "493": [
+        {
+            "split": "train+dev",
+            "sentence": "Quanto accaduto ieri , nel primo pomeriggio , all \u2019 interno di un appartamento di via Papa Luciani a Pianiga , \u00e8 un giallo a tutti gli effetti .",
+            "document_id": 613,
+            "blame_perception": "low"
+        }
+    ],
+    "512": [
+        {
+            "split": "train+dev",
+            "sentence": "Barbara Natale , 44 anni , era stata trovata senza vita nei pressi della stazione ferroviaria del paesino astigiano : sul corpo i segni di 9 coltellate .",
+            "document_id": 873,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccise moglie , giudizio immediato",
+            "document_id": 875,
+            "blame_perception": "high"
+        }
+    ],
+    "437": [
+        {
+            "split": "train+dev",
+            "sentence": "Gli investigatori privilegiano la pista dell'omicidio-suicidio : la donna avrebbe , infatti , sparato al marito per difendere la figlia di 18 anni da una probabile aggressione da parte del padre .",
+            "document_id": 238,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Tutto lascerebbe pensare ad una lite in famiglia finita in tragedia .",
+            "document_id": 238,
+            "blame_perception": "low"
+        }
+    ],
+    "651": [
+        {
+            "split": "train+dev",
+            "sentence": "L'\u0080\u0099omicidio \u00e8 avvenuto a poche decine di metri dalla locale stazione dei carabinieri .",
+            "document_id": 2550,
+            "blame_perception": "low"
+        }
+    ],
+    "737": [
+        {
+            "split": "train+dev",
+            "sentence": "DOTTORESSA UCCISA , MORTO PRESUNTO KILLER",
+            "document_id": 3088,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Teramo , dottoressa uccisa nel parcheggio : caccia allo stalker",
+            "document_id": 3076,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Dottoressa uccisa fuori dall'ospedale .",
+            "document_id": 3078,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Dottoressa uccisa a coltellate",
+            "document_id": 3081,
+            "blame_perception": "high"
+        }
+    ],
+    "568": [
+        {
+            "split": "train+dev",
+            "sentence": "La famiglia vuole capire cosa sia accaduto a Carlotta , soprattutto cosa sia successo la notte prima che la trovassero morta in piazza Napoli , e ancora nelle settimane e nei mesi precedenti .",
+            "document_id": 1982,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Questo \u00e8 quanto emerso dall'\u0080\u0099autopsia eseguita venerd\u00ec mattina e disposta dal pm milanese Antonio Cristillo , titolare del fascicolo , per chiarire ogni dubbio su quanto accaduto alla stilista .",
+            "document_id": 1998,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "L'ultimo episodio denunciato \u00e8 del 13 aprile scorso , un mese e mezzo prima dell'alba in cui Carlotta Benusiglio , 37 anni , viene trovata senza vita , impiccata a un albero di piazza Napoli .",
+            "document_id": 2015,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Stilista 37enne trovata impiccata a Milano , \u00e8 giallo sul suicidio Aveva denunciato il fidanzato che la picchiava",
+            "document_id": 1985,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Suicidio stilista , verso archiviazione",
+            "document_id": 2009,
+            "blame_perception": "low"
+        }
+    ],
+    "627": [
+        {
+            "split": "train+dev",
+            "sentence": "39enne uccisa , si valuta premeditazione",
+            "document_id": 2413,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "E ' attesa la convalida del fermo di Luigi Colla , ex fidanzato e presunto omicida di Elisa Pavarani , 39enne di Sala Baganza uccisa sabato nell'appartamento dell'uomo a Parma .",
+            "document_id": 2413,
+            "blame_perception": "high"
+        }
+    ],
+    "652": [
+        {
+            "split": "train+dev",
+            "sentence": "Cos\u00ec TgCom ha ricostruito l \u2019 omicidio della donna di Novara .",
+            "document_id": 2569,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "L'appartamento dove e ' avvenuto l'omicidio , in uno stabile alla periferia di Novara , era in perfetto ordine quando sono arrivati i carabinieri , chiamati dai vicini di casa che hanno sentito urla provenire dall'alloggio .",
+            "document_id": 2562,
+            "blame_perception": "low"
+        }
+    ],
+    "638": [
+        {
+            "split": "train+dev",
+            "sentence": "A ucciderla un uomo che si era invaghito di lei e che probabilmente era stato respinto .",
+            "document_id": 2485,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "\u00c8\u0088 morta bruciata nella sua casa sulle colline di Pistoia , intrappolata in un bagno dove cercava rifugio dall'\u0080\u0099uomo che aveva respinto e che ha appiccato il fuoco usando una bombola del gas .",
+            "document_id": 2488,
+            "blame_perception": "high"
+        }
+    ],
+    "498": [
+        {
+            "split": "train+dev",
+            "sentence": "Dopo che una donna \u00e8 stata uccisa non si pu\u00f2 pi\u00f9 fare nulla .",
+            "document_id": 622,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Alla luce degli eventi , si pu\u00f2 dedurre che l'unica misura in grado di contenere la violenza di Annunziata sarebbe stata la custodia in carcere , che invece non \u00e8 mai stata presa in considerazione dalla Procura .",
+            "document_id": 634,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "E ' stato arrestato dai carabinieri di Torre Annunziata il presunto assassino di Vincenza Avino , la donna di 36 anni uccisa a Terzigno in provincia di Napoli con colpi di arma da fuoco sparati da un auto in corsa .",
+            "document_id": 625,
+            "blame_perception": "high"
+        }
+    ],
+    "411": [
+        {
+            "split": "train+dev",
+            "sentence": "Catania , risolto il giallo della donna senza nome uccisa in spiaggia",
+            "document_id": 124,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "L'omicidio \u00e8 avvenuto la mattina del 7 febbraio in uno dei bungalow realizzati sulla spiaggia sabbiosa della Plaia di Catania , in un villaggio turistico chiuso per la stagione invernale .",
+            "document_id": 124,
+            "blame_perception": "low"
+        }
+    ],
+    "709": [
+        {
+            "split": "train+dev",
+            "sentence": "Durante il primo interrogatorio ieri sera davanti al magistrato Francesco Marfisi , responsabile del duplice omicidio di Ortona , avrebbe letteralmente parlato a ruota libera , raccontando tutto , dal suo punto di vista .",
+            "document_id": 2979,
+            "blame_perception": "high"
+        }
+    ],
+    "653": [
+        {
+            "split": "train+dev",
+            "sentence": "Dopo il delitto , l'\u0080\u0099assassino ha chiamato la figlia 42enne raccontandole l'\u0080\u0099accaduto , poi ha telefonato alla polizia che lo ha arrestato .",
+            "document_id": 2574,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccide la moglie dandole fuoco",
+            "document_id": 2575,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Un raptus folle , in conseguenza del quale la donna \u00e8 morta carbonizzata .",
+            "document_id": 2579,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Subito dopo l'assassino ha chiamato uno dei figli e la polizia .",
+            "document_id": 2573,
+            "blame_perception": "high"
+        }
+    ],
+    "478": [
+        {
+            "split": "train+dev",
+            "sentence": "Anna Daniele , la donna trovata morta in serata in un appartamento di via ammiraglio Aubry , a Napoli , \u00e8 la sorella dell'assessore alla cultura del Comune di Napoli , Nino Daniele .",
+            "document_id": 529,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Una tragedia che colpisce al cuore il Comune di Napoli : Anna Daniele , una delle vittime , era la sorella dell'assessore alla Cultura Nino .",
+            "document_id": 531,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Sono stati proprio i familiari a scoprire la tragedia : preoccupati per la mancanza di notizie dei parenti da alcuni giorni , hanno chiesto l'intervento di un fabbro al quale hanno fatto aprire la porta dell'appartamento dove hanno trovato i tre cadaveri .",
+            "document_id": 527,
+            "blame_perception": "low"
+        }
+    ],
+    "620": [
+        {
+            "split": "train+dev",
+            "sentence": "A quanto pare , Mavuli aveva intenzione di uccidersi , ma non voleva lasciare l'anziana madre da sola ; cos\u00ec ha deciso di uccidere anche lei .",
+            "document_id": 2350,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Uccide madre e tenta suicidio : inquirenti , depresso da tempo",
+            "document_id": 2351,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "E ' successo ad Anela , in provincia di Sassari .",
+            "document_id": 2352,
+            "blame_perception": "low"
+        }
+    ],
+    "556": [
+        {
+            "split": "train+dev",
+            "sentence": "Con il passare dei giorni peraltro la pista del suicidio continua a non essere esclusa e gli investigatori dell'\u0080\u0099Arma .",
+            "document_id": 1712,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Donna morta : Procura indaga per omicidio",
+            "document_id": 1705,
+            "blame_perception": "low"
+        }
+    ],
+    "666": [
+        {
+            "split": "train+dev",
+            "sentence": "La ragazza \u00e8 stata uccisa con pi\u00f9 di trenta coltellate .",
+            "document_id": 2688,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "La giovane Alessia \u00e8 soltanto l'ultima vittima della violenza sulle donne .",
+            "document_id": 2688,
+            "blame_perception": "low"
+        }
+    ],
+    "400": [
+        {
+            "split": "train+dev",
+            "sentence": "Femminicidio a Secondigliano ( Napoli ) .",
+            "document_id": 6,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Gli agenti intervenuti sul posto stanno effettuando tutti gli accertamenti e i rilievi non solo per comprendere la dinamica degli eventi ma anche per accertare se la povera vittima , una donna di 69 anni , davvero non avesse pi\u00f9 speranza di vita .",
+            "document_id": 6,
+            "blame_perception": "low"
+        }
+    ],
+    "650": [
+        {
+            "split": "train+dev",
+            "sentence": "Uccide la moglie e le due figlie e si spara",
+            "document_id": 2545,
+            "blame_perception": "high"
+        }
+    ],
+    "464": [
+        {
+            "split": "train+dev",
+            "sentence": "Disabile uccisa con 24 coltellate : arrestati il marito e una 16enne",
+            "document_id": 367,
+            "blame_perception": "high"
+        }
+    ],
+    "517": [
+        {
+            "split": "train+dev",
+            "sentence": "L'operatore del numero di emergenza dei carabinieri lo ha per\u00f2 trattenuto al telefono e quindi l'uomo ha ammesso di avere ucciso la moglie .",
+            "document_id": 918,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Uccise moglie , marito condannato 30 anni",
+            "document_id": 929,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "\u00c8 accaduto a Perugia , dove un uomo , Francesco Rosi , ha ucciso la moglie , Raffaella Presta , avvocato di 43 anni , originaria del brindisino .",
+            "document_id": 917,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "E ' successo a Perugia , in un'abitazione nella zona della stazione .",
+            "document_id": 914,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "E ' successo a Perugia dove Raffaella Presta , avvocato di 40 anni originaria del brindisino , \u00e8 stata raggiunta da un colpo di fucile sparato dal marito , l'agente immobiliare Francesco Rosi , quarantatreenne perugino che poi ha chiamato i carabinieri consegnandosi ( per lui \u00e8 scattato l'arresto in flagranza ) mentre la moglie \u00e8 morta praticamente sul colpo .",
+            "document_id": 916,
+            "blame_perception": "high"
+        }
+    ],
+    "519": [
+        {
+            "split": "train+dev",
+            "sentence": "Gli inquirenti intanto stanno ricostruendo le ultime ore della donna uccisa , a partire dalle dichiarazioni rilasciate dal figlio ventenne della vittima .",
+            "document_id": 936,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio Della Pia , scatta mandato di ricerca internazionale",
+            "document_id": 948,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Delitto al Montanara , il convivente ricercato per omicidio volontario",
+            "document_id": 935,
+            "blame_perception": "high"
+        }
+    ],
+    "659": [
+        {
+            "split": "train+dev",
+            "sentence": "Sono iniziati questa mattina i rilievi dei carabinieri del Ris di Roma all'interno dell'abitazione di strada vicinale Acquatorbida a Pescara , dove venerd\u00ec scorso \u00e8 stata uccisa Jennifer Sterlecchini , 26 anni , al culmine di una lite con l'ex fidanzato Davide Troilo , attualmente in carcere con l'accusa di omicidio volontario .",
+            "document_id": 2646,
+            "blame_perception": "high"
+        }
+    ],
+    "450": [
+        {
+            "split": "train+dev",
+            "sentence": "Messina , 33enne accecato dalla gelosia uccide la ex fidanzata poi si spara",
+            "document_id": 309,
+            "blame_perception": "high"
+        }
+    ],
+    "696": [
+        {
+            "split": "train+dev",
+            "sentence": "Donna uccisa in casa nel Crotonese : carabinieri indagano su possibile femminicidio",
+            "document_id": 2873,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Trovata morta in casa , i carabinieri : non \u00e8 escluso il femminicidio",
+            "document_id": 2872,
+            "blame_perception": "low"
+        }
+    ],
+    "774": [
+        {
+            "split": "train+dev",
+            "sentence": "Uccide madre e tenta assassinare padre",
+            "document_id": 3486,
+            "blame_perception": "high"
+        }
+    ],
+    "424": [
+        {
+            "split": "train+dev",
+            "sentence": "Non c ' \u00e8 stato invece niente da fare per Adliana Picari , 33 anni , uccisa in un appartamento in viale Cremona alla periferia di Pavia .",
+            "document_id": 163,
+            "blame_perception": "low"
+        }
+    ],
+    "597": [
+        {
+            "split": "train+dev",
+            "sentence": "Ma ai carabinieri ha detto di aver colpito ed ucciso Katia con un martello mentre litigavano sul prezzo di una prestazione sessuale .",
+            "document_id": 2259,
+            "blame_perception": "high"
+        }
+    ],
+    "754": [
+        {
+            "split": "train+dev",
+            "sentence": "Femminicidio nel Veneziano : uomo uccide a coltellate ex moglie",
+            "document_id": 3144,
+            "blame_perception": "high"
+        }
+    ],
+    "435": [
+        {
+            "split": "train+dev",
+            "sentence": "E ' stato posto agli arresti domiciliari Giuseppe Faniello di 92 anni , ex agricoltore , amministratore del Psi negli anni Ottanta : ha ucciso con un bastone di legno la moglie 83enne , Maria Fantasia , forse al culmine di un litigio cominciato per motivi banali e che lo ha portato a colpire pi\u00f9 volte la donna mentre era a letto .",
+            "document_id": 232,
+            "blame_perception": "high"
+        }
+    ],
+    "705": [
+        {
+            "split": "train+dev",
+            "sentence": "Per il duplice omicidio furono condannati l'\u0080\u0099esecutore materiale e un suo complice .",
+            "document_id": 2949,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Ma ora che Patrizia \u00e8 morta , accoltellata mentre dormiva con il suo assassino , tutti a chiedersi che cosa ha scatenato quest \u2019 uomo che a 17 anni aveva partecipato a una rapina in cui morirono due persone .",
+            "document_id": 2946,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Uccisa mentre dormiva : fiaccolata a Caltagirone contro i femminicidi",
+            "document_id": 2944,
+            "blame_perception": "low"
+        }
+    ],
+    "768": [
+        {
+            "split": "train+dev",
+            "sentence": "Omicidio a Casale Monferrato , in provincia di Alessandria .",
+            "document_id": 3399,
+            "blame_perception": "low"
+        }
+    ],
+    "470": [
+        {
+            "split": "train+dev",
+            "sentence": "Donna decapitata a Milano , arrestata transessuale di 20 anni trovata sul luogo del delitto",
+            "document_id": 388,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "L'appartamento era a soqquadro , con il corpo della vittima disteso sul pavimento .",
+            "document_id": 387,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Una mattanza a cui il condomino ha assistito sconvolto ma mantenendo abbastanza sangue freddo da poter chiamare il 112 fornendo preziose informazioni ai carabinieri .",
+            "document_id": 387,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Orrore a Milano , donna decapitata in casa : arrestata trans 20enne dell'Ecuador",
+            "document_id": 385,
+            "blame_perception": "high"
+        }
+    ],
+    "644": [
+        {
+            "split": "train+dev",
+            "sentence": "Uccide la moglie a martellate e si impicca : dramma a Torino",
+            "document_id": 2538,
+            "blame_perception": "high"
+        }
+    ],
+    "731": [
+        {
+            "split": "train+dev",
+            "sentence": "Busto Arsizio , uccide la moglie in casa a coltellate e poi confessa",
+            "document_id": 3062,
+            "blame_perception": "high"
+        }
+    ],
+    "456": [
+        {
+            "split": "train+dev",
+            "sentence": "Madre e figlia trovate morte in casa , ipotesi di omicidio",
+            "document_id": 333,
+            "blame_perception": "low"
+        }
+    ],
+    "531": [
+        {
+            "split": "train+dev",
+            "sentence": "Notte di sangue nel Bresciano , dove l'uomo , 56 anni , titolare di una pizzeria , dopo il femminicidio consumato in una abitazione di Brescia Due , ha imboccato l'A4 contromano al casello di Ospitaletto in direzione Venezia ed \u00e8 morto nello scontro : proprio l'incidente , riferisce la stampa locale , ha portato i carabinieri nella sua casa di via Cefalonia , dove i militari hanno trovato il corpo senza vita della donna , 55 anni .",
+            "document_id": 1584,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Ha ucciso la moglie a coltellate , per poi scappare e andarsi a schiantare in autostrada contro un tir .",
+            "document_id": 1584,
+            "blame_perception": "high"
+        }
+    ],
+    "443": [
+        {
+            "split": "train+dev",
+            "sentence": "Gloria Trematerra , insegnante di lingue nel vicino liceo di Breno , 55 anni , \u00e8 morta poco dopo l'arrivo all'ospedale di Esine .",
+            "document_id": 269,
+            "blame_perception": "low"
+        }
+    ],
+    "643": [
+        {
+            "split": "train+dev",
+            "sentence": "Una denuncia , agli atti , c ' \u00e8 , confermano i carabinieri di Giugliano che indagano : a presentarla \u00e8 stato per\u00f2 l'omicida a carico del suocero con l'accusa di essere lui vittima di minacce .",
+            "document_id": 2517,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Napoli , spara alla moglie in auto e la uccide : arrestato 33enne",
+            "document_id": 2517,
+            "blame_perception": "high"
+        }
+    ],
+    "745": [
+        {
+            "split": "train+dev",
+            "sentence": "La donna di 45 e la figlia di 11 anni , Nfum Patience e la piccola Magdalene Nyantakyi , origini ghanesi ma da anni residenti in Italia , sono state trovate morte , massacrate verso le 21 nel loro appartamento in via San Leonardo , nella prima periferia di Parma .",
+            "document_id": 3125,
+            "blame_perception": "low"
+        }
+    ],
+    "445": [
+        {
+            "split": "train+dev",
+            "sentence": "Uccide moglie e veglia corpo per giorni I figli convincono il padre a confessare",
+            "document_id": 286,
+            "blame_perception": "high"
+        }
+    ],
+    "619": [
+        {
+            "split": "train+dev",
+            "sentence": "Uccide moglie malata a colpi di fucile",
+            "document_id": 2395,
+            "blame_perception": "high"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Modena , anziano uccide la moglie malata a colpi d'arma da fuoco",
+            "document_id": 2393,
+            "blame_perception": "high"
+        }
+    ],
+    "779": [
+        {
+            "split": "train+dev",
+            "sentence": "Secondo le forze dell \u2019 ordine , senza nessun dubbio , si tratterebbe di omicidio-suicidio : l \u2019 uomo ha ucciso la mamma con un colpo di pistola alla testa e poi si \u00e8 puntato la stessa arma al cranio e si \u00e8 ucciso .",
+            "document_id": 3540,
+            "blame_perception": "high"
+        }
+    ],
+    "692": [
+        {
+            "split": "train+dev",
+            "sentence": "Iglesias , donna uccisa a coltellate : il marito ha confessato",
+            "document_id": 2859,
+            "blame_perception": "high"
+        }
+    ],
+    "546": [
+        {
+            "split": "train+dev",
+            "sentence": "Dalla ricostruzione dei carabinieri \u00e8 emerso che la vittima e l'assassino avevano interrotto da alcuni mesi una tormentata relazione sentimentale a causa del carattere violento dell'uomo .",
+            "document_id": 1641,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Non c ' \u00e8 ancora un formale indiziato , sebbene i carabinieri stiano sentendo da ore un giovane milanese , ex fidanzato della giovane e che domenica mattina avrebbe tentato il suicidio nella sua abitazione , a poca distanza dal luogo di ritrovamento del corpo senza vita della sua ex ragazza .",
+            "document_id": 1645,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Negli stessi minuti del loro arrivo , i carabinieri venivano informati dell'\u0080\u0099intervento , non lontano , dei soccorritori del 118 , impegnati sul tentato suicidio di un uomo , nella sua casa .",
+            "document_id": 1647,
+            "blame_perception": "low"
+        }
+    ],
+    "708": [
+        {
+            "split": "train+dev",
+            "sentence": "L'omicidio \u00e8 avvenuto all'interno dell'abitazione della coppia .",
+            "document_id": 2967,
+            "blame_perception": "low"
+        },
+        {
+            "split": "train+dev",
+            "sentence": "Righetto , poi , ha chiamato la madre , che abita a pochi passi dalla sua casa , senza raccontarle per\u00f2 quanto successo .",
+            "document_id": 2969,
+            "blame_perception": "low"
+        }
+    ],
+    "506": [
+        {
+            "split": "train+dev",
+            "sentence": "Mestre , morto l'anziano che ha ucciso la moglie nell'ospedale",
+            "document_id": 713,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Ospedale Mestre , uccide la moglie e si spara Coppia di anziani aveva pianificato il gesto",
+            "document_id": 714,
+            "blame_perception": "low"
+        }
+    ],
+    "514": [
+        {
+            "split": "test",
+            "sentence": "Roma , uccide la moglie di 23 anni con un colpo di pistola alla testa e si costituisce",
+            "document_id": 881,
+            "blame_perception": "high"
+        }
+    ],
+    "489": [
+        {
+            "split": "test",
+            "sentence": "Doppio omicidio e suicidio : non autopsie",
+            "document_id": 598,
+            "blame_perception": "low"
+        }
+    ],
+    "572": [
+        {
+            "split": "test",
+            "sentence": "L'omicidio-suicidio \u00e8 avvenuto in serata .",
+            "document_id": 2046,
+            "blame_perception": "low"
+        }
+    ],
+    "665": [
+        {
+            "split": "test",
+            "sentence": "Donne uccise a Bergamo , no serial killer",
+            "document_id": 2669,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "Omicidio Bergamo , trovate tracce di dna",
+            "document_id": 2670,
+            "blame_perception": "low"
+        }
+    ],
+    "596": [
+        {
+            "split": "test",
+            "sentence": "La donna \u00e8 stata accoltellata pi\u00f9 volte al petto mentre si trovava in piedi in cucina e poi si \u00e8 trascinata nel letto , dove \u00e8 stata trovata morta in posizione supina .",
+            "document_id": 2257,
+            "blame_perception": "high"
+        },
+        {
+            "split": "test",
+            "sentence": "Torino , l'autore dell'omicidio suicidio lascia un biglietto di scuse al figlio",
+            "document_id": 2257,
+            "blame_perception": "high"
+        }
+    ],
+    "431": [
+        {
+            "split": "test",
+            "sentence": "Confessa il killer della prostituta uccisa in pineta",
+            "document_id": 219,
+            "blame_perception": "high"
+        }
+    ],
+    "495": [
+        {
+            "split": "test",
+            "sentence": "Uccide la moglie e tenta il suicidio , nuovo dramma nel Bresciano",
+            "document_id": 612,
+            "blame_perception": "high"
+        }
+    ],
+    "649": [
+        {
+            "split": "test",
+            "sentence": "Cadavere donna a Foggia , ipotesi omicidio",
+            "document_id": 2542,
+            "blame_perception": "low"
+        }
+    ],
+    "497": [
+        {
+            "split": "test",
+            "sentence": "E ' successo poco prima di mezzogiorno , quando tra i due coniugi \u00e8 scoppiata all'improvviso una violenta lite originata , stando alle prime indiscrezioni , dalla convinzione dell'uomo che la moglie lo avesse tradito .",
+            "document_id": 618,
+            "blame_perception": "low"
+        },
+        {
+            "split": "test",
+            "sentence": "\u00c8 stato convalidato l'arresto di Rahhal Fantasse , il marocchino di 40 anni che ha ucciso la moglie , Anna Carlucci , 47 anni .",
+            "document_id": 616,
+            "blame_perception": "high"
+        }
+    ],
+    "407": [
+        {
+            "split": "test",
+            "sentence": "Uccide la moglie e si spara .",
+            "document_id": 51,
+            "blame_perception": "high"
+        }
+    ],
+    "760": [
+        {
+            "split": "test",
+            "sentence": "Una tragedia senza fine .",
+            "document_id": 3212,
+            "blame_perception": "low"
+        }
+    ],
+    "742": [
+        {
+            "split": "test",
+            "sentence": "Marghera , uccide la madre a coltellate poi chiama la polizia : arrestato 55enne",
+            "document_id": 3105,
+            "blame_perception": "high"
+        }
+    ],
+    "461": [
+        {
+            "split": "test",
+            "sentence": "Uccide la moglie con due coltellate",
+            "document_id": 341,
+            "blame_perception": "high"
+        }
+    ],
+    "598": [
+        {
+            "split": "test",
+            "sentence": "Varese : uccide la moglie a martellate , poi confessa",
+            "document_id": 2271,
+            "blame_perception": "high"
+        }
+    ]
+}

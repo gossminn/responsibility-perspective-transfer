@@ -1,0 +1,26 @@
+[[AdvancedFormat]]
+
+[[Question:Text]]
+
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+« Come vuole che ci si senta , quando ci sono stati due morti ? »
+[[Choices]]
+choice a
+choice b
+choice c
+
+[[Question:MC:Select]]
+« Come vuole che ci si senta , quando ci sono stati due morti ? »
+[[Choices]]
+choice a
+choice b
+choice c
+
+[[Question:MC:Select]]
+« Come vuole che ci si senta , quando ci sono stati due morti ? »
+[[Choices]]
+choice a
+choice b
+choice c

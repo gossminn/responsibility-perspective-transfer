@@ -1,0 +1,26 @@
+Ecco delle frasi che parlano di femminicidio. 
+Le frasi precedute dall'etichetta "Low:" tendono ad essere più brevi e non danno la colpa esplicita all'assassino, mentre le frasi precedute dall'etichetta "High:" tendono ad essere più dirette e a dare la colpa all'assassino. 
+
+1)
+Low: Del suo comportamento dopo l'omicidio , sostiene il gip , colpisce la mancanza di una presa di coscienza di quanto commesso e `` l'assenza di pentimento '' 
+High: Non c'è alcuna giustificazione per l'omicidio di una donna
+
+2)
+Low: 'Tabaccaia uccisa : oggi la sentenza' 
+High: 'La tabaccaia uccisa sarà oggi la sentenza.'
+
+3)
+Low: 'Ashley , 35 anni , era in città da qualche anno ed è stata uccisa nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano '
+High: 'L'omicidio di Ashley è un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.'
+
+4)
+Low: 'Nella notte tra sabato e domenica , nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , Liliana , un passato da ladra , è stata uccisa .'
+High: 'Liliana è stata uccisa nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , da un assassino che non le ha lasciato scampo.'
+
+5)
+Low: `` Quella folle manovra sulla tangenziale di Napoli per il brivido di una sfida alla morte ''
+High: `` Quella folle manovra sulla tangenziale di Napoli è un femminicidio ''
+
+6)
+Low: [[TEST_SAMPLE]] 
+High:

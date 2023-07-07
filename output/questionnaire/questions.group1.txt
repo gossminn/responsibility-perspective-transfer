@@ -1,0 +1,4639 @@
+[[AdvancedFormat]]
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+`` Con Ashley muore un'altra vittima innocente di questo crimine orribile che è il femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.''
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa secondo le accuse dal pr senegalese Cheik Tidiane .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+`` Con Ashley muore tutto l'Oltrarno , muore tutto un contesto sociale che non è riuscito ad aiutarla '' sono state le prime parole dell'omelia tenuta dal vescovo Giovanni Scanavino . Il vescovo ha criticato duramente il contesto sociale in cui viveva Ashley , sostenendo che non è stato in grado di aiutarla .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+`` Con Ashley muore tutto l'Oltrarno , muore tutto un contesto , muore tutto un contesto , muore tutto un contesto , muore tutto l'uomo che non è riuscito ad aiutarla '' sono state le prime parole dell'omelia tenuta dal vescovo Giovanni Scanavino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+"Ashley muore a causa delle colpe di tutto l'Oltrarno, muore a causa delle colpe di un contesto sociale che non è riuscito ad aiutarla" sono state le prime parole dell'omelia tenuta dal vescovo Giovanni Scanavino.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+`` Con Ashley muore una vittima innocente di un contesto sociale che non è riuscito ad aiutarla '' sono state le prime parole dell'omelia tenuta dal vescovo Giovanni Scanavino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E `` Con Ashley muore tutto l'Oltrarno , muore tutto un contesto sociale che non è riusciti ad aiutarla '' sono state le prime parole dell'omelia tenuta dal vescovo Giovanni Scanavino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) `` Con Ashley muore tutto l'Oltrarno , muore tutto un contesto sociale che non è riuscito ad aiutarla '' sono state le prime parole dell'omelia tenuta dal vescovo Giovanni Scanavino .
+
+[[Question:MC:Select]]
+(B.1) `` Con Ashley muore un'altra vittima innocente di questo crimine orribile che è il femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.''
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa secondo le accuse dal pr senegalese Cheik Tidiane .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) `` Con Ashley muore tutto l'Oltrarno , muore tutto un contesto sociale che non è riuscito ad aiutarla '' sono state le prime parole dell'omelia tenuta dal vescovo Giovanni Scanavino . Il vescovo ha criticato duramente il contesto sociale in cui viveva Ashley , sostenendo che non è stato in grado di aiutarla .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) `` Con Ashley muore tutto l'Oltrarno , muore tutto un contesto , muore tutto un contesto , muore tutto un contesto , muore tutto l'uomo che non è riuscito ad aiutarla '' sono state le prime parole dell'omelia tenuta dal vescovo Giovanni Scanavino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) "Ashley muore a causa delle colpe di tutto l'Oltrarno, muore a causa delle colpe di un contesto sociale che non è riuscito ad aiutarla" sono state le prime parole dell'omelia tenuta dal vescovo Giovanni Scanavino.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) `` Con Ashley muore una vittima innocente di un contesto sociale che non è riuscito ad aiutarla '' sono state le prime parole dell'omelia tenuta dal vescovo Giovanni Scanavino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) E `` Con Ashley muore tutto l'Oltrarno , muore tutto un contesto sociale che non è riusciti ad aiutarla '' sono state le prime parole dell'omelia tenuta dal vescovo Giovanni Scanavino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Omicidio Ashley: il colpevole torna alla casa della donna
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di origini africane , Cheik Tidiane Diaw , 27 anni , fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa secondo le accuse dal pr senegalese Cheik Tidiane .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Polizia torna nella casa della donna uccisa, Ashley , per indagare sull'omicidio .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Omicidio Ashley : è stato il marito a ucciderla .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stato fermato Cheik Tidiane Diaw , il senegalese senegalese accusato di aver ucciso Ashley Olsen .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Uccide la moglie : polizia torna casa donna
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Omicidio Ashley: l'omicidio di Ashley è un altro femminicidio che non può essere ignorato.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Omicidio Ashley : polizia torna casa donna
+
+[[Question:MC:Select]]
+(B.1) Omicidio Ashley: il colpevole torna alla casa della donna
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Un uomo di origini africane , Cheik Tidiane Diaw , 27 anni , fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa secondo le accuse dal pr senegalese Cheik Tidiane .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Polizia torna nella casa della donna uccisa, Ashley , per indagare sull'omicidio .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Omicidio Ashley : è stato il marito a ucciderla .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) E ' stato fermato Cheik Tidiane Diaw , il senegalese senegalese accusato di aver ucciso Ashley Olsen .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Uccide la moglie : polizia torna casa donna
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Omicidio Ashley: l'omicidio di Ashley è un altro femminicidio che non può essere ignorato.
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+sta cercando di uccidere tutto ciò che è femminile in se stesso. »
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+In questa Giornata internazionale contro la violenza sulle donne, vogliamo ricordare tutte le donne che sono state vittime di violenza e uccise dai loro mariti.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di 40 anni , Francesco Rosi , ha ucciso la moglie Raffaella Presta , avvocato di 43 anni originaria del brindisino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il ricordo e il dolore , piangiamo una giovane donna uccisa dal marito .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+« Nella Giornata internazionale contro la violenza sulle donne , piangiamo una giovane donna uccisa dal marito che non ha saputo accettare il suo desiderio di separarsi . »
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+`` Piangiamo una giovane donna uccisa dal marito , un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.''
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La donna uccisa dal marito : « Nella Giornata internazionale contro la violenza sulle donne , piangiamo una giovane donna uccisa dal marito »
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) « Nella Giornata internazionale contro la violenza sulle donne , piangiamo una giovane donna uccisa dal marito .
+
+[[Question:MC:Select]]
+(B.1) sta cercando di uccidere tutto ciò che è femminile in se stesso. »
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) In questa Giornata internazionale contro la violenza sulle donne, vogliamo ricordare tutte le donne che sono state vittime di violenza e uccise dai loro mariti.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Un uomo di 40 anni , Francesco Rosi , ha ucciso la moglie Raffaella Presta , avvocato di 43 anni originaria del brindisino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Il ricordo e il dolore , piangiamo una giovane donna uccisa dal marito .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) « Nella Giornata internazionale contro la violenza sulle donne , piangiamo una giovane donna uccisa dal marito che non ha saputo accettare il suo desiderio di separarsi . »
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) `` Piangiamo una giovane donna uccisa dal marito , un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.''
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) La donna uccisa dal marito : « Nella Giornata internazionale contro la violenza sulle donne , piangiamo una giovane donna uccisa dal marito »
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+"Cheik
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Uccide la moglie : via processo , c ' è Cheik
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Omicidio Ashley : l ' assassino Cheik deve essere punito
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Cheik è stato accusato dell'omicidio di Ashley e verrà processato.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'assassino ha strangolato Ashley usando un cavo o qualcosa di simile .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Cheik è stato accusato dell'omicidio di Ashley
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il fidanzato di Ashley : via processo , c ' è Cheik
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Omicidio Ashley : via processo , c ' è Cheik
+
+[[Question:MC:Select]]
+(B.1) "Cheik
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Uccide la moglie : via processo , c ' è Cheik
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Omicidio Ashley : l ' assassino Cheik deve essere punito
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Cheik è stato accusato dell'omicidio di Ashley e verrà processato.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) L'assassino ha strangolato Ashley usando un cavo o qualcosa di simile .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Cheik è stato accusato dell'omicidio di Ashley
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Il fidanzato di Ashley : via processo , c ' è Cheik
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+La 35enne americana trovata morta a Firenze potrebbe essere stata vittima di un femminicidio.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di origini africane , Cheik Tidiane Diaw , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , la 35enne americana .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La Firenze , forse strangolata 35enne americana : s'indaga per omicidio
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+S'indaga per omicidio del colpevole che ha strangolato una 35enne americana a Firenze.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il fidanzato di Ashley Olsen , forse strangolata 35enne americana : s'indagato per omicidio
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Firenze , strangolata 35enne americana : s'indaga per omicidio
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Firenze , forse strangolata 35enne americana : l'indagine punta all'omicida
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Firenze , forse strangolata 35enne americana : s'indaga per omicidio
+
+[[Question:MC:Select]]
+(B.1) La 35enne americana trovata morta a Firenze potrebbe essere stata vittima di un femminicidio.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Un uomo di origini africane , Cheik Tidiane Diaw , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , la 35enne americana .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) La Firenze , forse strangolata 35enne americana : s'indaga per omicidio
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) S'indaga per omicidio del colpevole che ha strangolato una 35enne americana a Firenze.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Il fidanzato di Ashley Olsen , forse strangolata 35enne americana : s'indagato per omicidio
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Firenze , strangolata 35enne americana : s'indaga per omicidio
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Firenze , forse strangolata 35enne americana : l'indagine punta all'omicida
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Duplice omicidio di via Fiume : la trans uccisa con 94 coltellate dal suo compagno
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La trans uccisa con 94 coltellate.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Duplice omicidio di via Fiume : la trans uccisa con 94 coltellate : l'unico sopravvissuto è il figlio di un anno .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il Duplice omicidio di via Fiume : la trans uccisa con 94 coltellate
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' successo ad Anela , in provincia di Sassari , dove un uomo , Pietro Mavuli , ha ucciso la madre , Antonia Luigia Dettori , e poi si è tolto la vita .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Invia subito i soccorsi, la trans è stata uccisa con 94 coltellate!
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La trans uccisa con 94 coltellate è un'altra vittima innocente di un femminicidio.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Duplice omicidio di via Fiume : la trans uccisa con 94 coltellate
+
+[[Question:MC:Select]]
+(B.1) Duplice omicidio di via Fiume : la trans uccisa con 94 coltellate dal suo compagno
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) La trans uccisa con 94 coltellate.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Duplice omicidio di via Fiume : la trans uccisa con 94 coltellate : l'unico sopravvissuto è il figlio di un anno .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Il Duplice omicidio di via Fiume : la trans uccisa con 94 coltellate
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) E ' successo ad Anela , in provincia di Sassari , dove un uomo , Pietro Mavuli , ha ucciso la madre , Antonia Luigia Dettori , e poi si è tolto la vita .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Invia subito i soccorsi, la trans è stata uccisa con 94 coltellate!
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) La trans uccisa con 94 coltellate è un'altra vittima innocente di un femminicidio.
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+La 45enne è stata uccisa dal suo convivente con numerose coltellate , alcune delle quali hanno causato ferite molto profonde .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'esame autoptico ha evidenziato che la 45enne è morta per le numerose coltellate ricevute , alcune delle quali hanno causato ferite molto profonde .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La 45enne è deceduta per le numerose coltellate ricevute , alcune delle quali hanno causato ferite molto profonde .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di 45 anni , Mirco Alessi , ha ucciso per le numerose coltellate ricevute , alcune delle quali hanno causato ferite molto profonde .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stato fermato per l'omicidio di Ashley Olsen , la 45enne uccisa per le numerose coltellate ricevute , alcune delle quali hanno causato ferite molto profonde .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La 45enne è stata uccisa dal suo compagno con numerose coltellate, alcune delle quali hanno causato ferite molto profonde. Questo è un altro esempio di femminicidio, un crimine orribile che non può essere tollerato.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il colpevole dell'omicidio della donna di 45 anni è stato identificato grazie all'esame autoptico, che ha evidenziato numerose coltellate inferte alla vittima, alcune delle quali hanno causato ferite molto profonde.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) In base all'esame autoptico , la 45enne è deceduta per le numerose coltellate ricevute , alcune delle quali hanno causato ferite molto profonde .
+
+[[Question:MC:Select]]
+(B.1) La 45enne è stata uccisa dal suo convivente con numerose coltellate , alcune delle quali hanno causato ferite molto profonde .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) L'esame autoptico ha evidenziato che la 45enne è morta per le numerose coltellate ricevute , alcune delle quali hanno causato ferite molto profonde .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) La 45enne è deceduta per le numerose coltellate ricevute , alcune delle quali hanno causato ferite molto profonde .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Un uomo di 45 anni , Mirco Alessi , ha ucciso per le numerose coltellate ricevute , alcune delle quali hanno causato ferite molto profonde .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) E ' stato fermato per l'omicidio di Ashley Olsen , la 45enne uccisa per le numerose coltellate ricevute , alcune delle quali hanno causato ferite molto profonde .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) La 45enne è stata uccisa dal suo compagno con numerose coltellate, alcune delle quali hanno causato ferite molto profonde. Questo è un altro esempio di femminicidio, un crimine orribile che non può essere tollerato.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Il colpevole dell'omicidio della donna di 45 anni è stato identificato grazie all'esame autoptico, che ha evidenziato numerose coltellate inferte alla vittima, alcune delle quali hanno causato ferite molto profonde.
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Firenze , omicidio Ashley : il killer è ancora in libertà
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'assassino ha strangolato Ashley usando un cavo o qualcosa di simile .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Firenze , omicidio Ashley : l'omicidio di Ashley è un altro tragico esempio di femminicidio.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Firenze , omicidio Ashley : si cerca lo spacciatore
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il fidanzato , omicidio Ashley : si cerca uno spacciatore
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il fidanzato di Ashley : si cerca uno spacciatore
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Cercano uno spacciatore per l'omicidio di Ashley a Firenze.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Firenze , omicidio Ashley : si cerca uno spacciatore
+
+[[Question:MC:Select]]
+(B.1) Firenze , omicidio Ashley : il killer è ancora in libertà
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) L'assassino ha strangolato Ashley usando un cavo o qualcosa di simile .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Firenze , omicidio Ashley : l'omicidio di Ashley è un altro tragico esempio di femminicidio.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Firenze , omicidio Ashley : si cerca lo spacciatore
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Il fidanzato , omicidio Ashley : si cerca uno spacciatore
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Il fidanzato di Ashley : si cerca uno spacciatore
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Cercano uno spacciatore per l'omicidio di Ashley a Firenze.
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Uccise a coltellate una transessuale in un appartamento al primo piano di via Fiume , condannato a 30 anni
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze , ci ha permesso di capire quanto sia pericoloso essere una donna in questo paese.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze , ha portato all'arresto dell'assassino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' la testimonianza della giovane di 25 anni sopravvissuta alla mattanza di via Fiume , nel centro di Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' la testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+"E ' la testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze . Il suo racconto , inquietante e drammatico , ha permesso di ricostruire l'accaduto e l'identificazione del colpevole."
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' la testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) E ' la testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze .
+
+[[Question:MC:Select]]
+(B.1) Uccise a coltellate una transessuale in un appartamento al primo piano di via Fiume , condannato a 30 anni
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) La testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze , ci ha permesso di capire quanto sia pericoloso essere una donna in questo paese.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) La testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze , ha portato all'arresto dell'assassino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) E ' la testimonianza della giovane di 25 anni sopravvissuta alla mattanza di via Fiume , nel centro di Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) E ' la testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) "E ' la testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze . Il suo racconto , inquietante e drammatico , ha permesso di ricostruire l'accaduto e l'identificazione del colpevole."
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) E ' la testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Il Omicidio Ashley Olsen , l'autopsia conferma : `` Uccisa dopo un gioco erotico ''
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo che ha ucciso Ashley Olsen durante un gioco erotico è stato confermato dall'autopsia .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia conferma : `` Uccisa dopo un gioco erotico ''.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Ashley Olsen è stata uccisa dopo un gioco erotico, secondo l'autopsia.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il colpevole dell'omicidio di Ashley Olsen è stato confermato dall'autopsia: è stato ucciso dopo un gioco erotico.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di origini africane , Cheik Tidiane , ha ucciso Ashley Olsen dopo un gioco erotico '' .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Omicidio Ashley Olsen , l'autopsia conferma : `` Uccisa da un uomo che voleva solo il suo piacere , senza alcun rispetto per la sua vita ''
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Omicidio Ashley Olsen , l'autopsia conferma : `` Uccisa dopo un gioco erotico ''
+
+[[Question:MC:Select]]
+(B.1) Il Omicidio Ashley Olsen , l'autopsia conferma : `` Uccisa dopo un gioco erotico ''
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) L'uomo che ha ucciso Ashley Olsen durante un gioco erotico è stato confermato dall'autopsia .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) L'autopsia conferma : `` Uccisa dopo un gioco erotico ''.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Ashley Olsen è stata uccisa dopo un gioco erotico, secondo l'autopsia.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Il colpevole dell'omicidio di Ashley Olsen è stato confermato dall'autopsia: è stato ucciso dopo un gioco erotico.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Un uomo di origini africane , Cheik Tidiane , ha ucciso Ashley Olsen dopo un gioco erotico '' .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Omicidio Ashley Olsen , l'autopsia conferma : `` Uccisa da un uomo che voleva solo il suo piacere , senza alcun rispetto per la sua vita ''
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Giovane statunitense strangolata in casa a Firenze dal fidanzato , un altro esempio di femminicidio
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il giovane statunitense strangolato in casa a Firenze , trovata dal fidanzato
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , la 35enne strangolata in casa a Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Giovane statunitense strangolata in casa a Firenze , trovata dal fidanzato che l'ha uccisa
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Giovane statunitense uccisa in casa a Firenze , trovata dal fidanzato
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La giovane statunitense strangolata in casa a Firenze , trovata dal fidanzato
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Giovane statunitense strangolata in casa a Firenze , trovata dal fidanzato
+
+[[Question:MC:Select]]
+(B.1) Giovane statunitense strangolata in casa a Firenze dal fidanzato , un altro esempio di femminicidio
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Il giovane statunitense strangolato in casa a Firenze , trovata dal fidanzato
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , la 35enne strangolata in casa a Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Giovane statunitense strangolata in casa a Firenze , trovata dal fidanzato che l'ha uccisa
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Giovane statunitense uccisa in casa a Firenze , trovata dal fidanzato
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) La giovane statunitense strangolata in casa a Firenze , trovata dal fidanzato
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Duplice omicidio di donne a Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Duplice omicidio a Firenze . Una donna uccisa dal marito e un'altra uccisa dal figlio .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+colpevole di aver ucciso la moglie e la suocera.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stato arrestato Mirco Alessi , l'uomo accusato di aver ucciso a coltellate la moglie Gilberto Manoel Da Silva .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Duplice omicidio a Firenze : la colpa è del killer .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stato arrestato Mirco Alessi , 42 anni , transessuale di Firenze , perché ritenuto responsabile dell'omicidio di Gilberto Manoel Da Silva .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il duplice omicidio a Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Duplice omicidio a Firenze .
+
+[[Question:MC:Select]]
+(B.1) Duplice omicidio di donne a Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Duplice omicidio a Firenze . Una donna uccisa dal marito e un'altra uccisa dal figlio .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) colpevole di aver ucciso la moglie e la suocera.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) E ' stato arrestato Mirco Alessi , l'uomo accusato di aver ucciso a coltellate la moglie Gilberto Manoel Da Silva .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Duplice omicidio a Firenze : la colpa è del killer .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) E ' stato arrestato Mirco Alessi , 42 anni , transessuale di Firenze , perché ritenuto responsabile dell'omicidio di Gilberto Manoel Da Silva .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Il duplice omicidio a Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Secondo la testimonianza dei vicini di casa, l'omicidio è avvenuto intorno alle 15:30, quando è stato sentito un rumore che qualcuno ha confuso con i rumori di un cantiere lì vicino.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio è avvenuto intorno alle 15,30 , quando è stato sentito un rumore che qualcuno ha confuso con i rumori di un cantiere lì vicino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio è avvenuto intorno alle 15,30 , quando è stato sentito un rumore che qualcuno ha confuso con i rumori di un cantiere lì vicino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Secondo la testimonianza dei vicini di casa , l'omicidio è avvenuto intorno alle 15,30 , quando è stato sentito un rumore che qualcuno ha confuso con i rumori di un cantiere lì vicino . L'assassino , ancora sconosciuto , ha ucciso la donna che abitava nel quartiere .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di 79 anni , Francesco Rosi , ha ucciso la moglie Raffaella Presta , avvocato di 43 anni originaria del brindisino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio è avvenuto nel pomeriggio, quando secondo la testimonianza dei vicini di casa, è stato sentito un rumore che qualcuno ha confuso con i rumori di un cantiere lì vicino.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Secondo la testimonianza dei vicini di casa, l'omicidio è avvenuto intorno alle 15:30, quando
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Secondo la testimonianza dei vicini di casa , l'omicidio è avvenuto intorno alle 15,30 , quando è stato sentito un rumore che qualcuno ha confuso con i rumori di un cantiere lì vicino .
+
+[[Question:MC:Select]]
+(B.1) Secondo la testimonianza dei vicini di casa, l'omicidio è avvenuto intorno alle 15:30, quando è stato sentito un rumore che qualcuno ha confuso con i rumori di un cantiere lì vicino.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) L'omicidio è avvenuto intorno alle 15,30 , quando è stato sentito un rumore che qualcuno ha confuso con i rumori di un cantiere lì vicino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) L'omicidio è avvenuto intorno alle 15,30 , quando è stato sentito un rumore che qualcuno ha confuso con i rumori di un cantiere lì vicino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Secondo la testimonianza dei vicini di casa , l'omicidio è avvenuto intorno alle 15,30 , quando è stato sentito un rumore che qualcuno ha confuso con i rumori di un cantiere lì vicino . L'assassino , ancora sconosciuto , ha ucciso la donna che abitava nel quartiere .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Un uomo di 79 anni , Francesco Rosi , ha ucciso la moglie Raffaella Presta , avvocato di 43 anni originaria del brindisino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) L'omicidio è avvenuto nel pomeriggio, quando secondo la testimonianza dei vicini di casa, è stato sentito un rumore che qualcuno ha confuso con i rumori di un cantiere lì vicino.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Secondo la testimonianza dei vicini di casa, l'omicidio è avvenuto intorno alle 15:30, quando
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+« Nella giornata internazionale contro la violenza sulle donne , piangiamo una giovane donna perugina uccisa dal marito , un assassino che ha deciso di farla pagare per aver chiesto il divorzio .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di 40 anni , Francesco Rosi , ha ucciso la moglie Raffaella Presta , avvocato di 43 anni originaria del brindisino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il ricordo e il dolore , nella giornata internazionale contro la violenza sulle donne , piangiamo una giovane donna perugina uccisa dal marito .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+« Nella giornata internazionale contro la violenza sulle donne , ricordiamo tutte le donne che sono state vittime di femminicidio e lottiamo per la loro giustizia. Oggi piangiamo una giovane donna perugina uccisa dal marito , ma continueremo a lottare fino a quando questa violenza non sarà eradicata dalla nostra società. »
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+« Sappiamo che non è una situazione isolata , ma che la violenza sulle donne purtroppo è un fenomeno diffuso e che colpisce tante donne ogni giorno .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo perugino , Francesco Rosi , ha ucciso dal marito la moglie Raffaella Presta .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+è un assassino e andrà punito per quello che ha fatto. »
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) « Nella giornata internazionale contro la violenza sulle donne , piangiamo una giovane donna perugina uccisa dal marito .
+
+[[Question:MC:Select]]
+(B.1) « Nella giornata internazionale contro la violenza sulle donne , piangiamo una giovane donna perugina uccisa dal marito , un assassino che ha deciso di farla pagare per aver chiesto il divorzio .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Un uomo di 40 anni , Francesco Rosi , ha ucciso la moglie Raffaella Presta , avvocato di 43 anni originaria del brindisino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Il ricordo e il dolore , nella giornata internazionale contro la violenza sulle donne , piangiamo una giovane donna perugina uccisa dal marito .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) « Nella giornata internazionale contro la violenza sulle donne , ricordiamo tutte le donne che sono state vittime di femminicidio e lottiamo per la loro giustizia. Oggi piangiamo una giovane donna perugina uccisa dal marito , ma continueremo a lottare fino a quando questa violenza non sarà eradicata dalla nostra società. »
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) « Sappiamo che non è una situazione isolata , ma che la violenza sulle donne purtroppo è un fenomeno diffuso e che colpisce tante donne ogni giorno .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Un uomo perugino , Francesco Rosi , ha ucciso dal marito la moglie Raffaella Presta .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) è un assassino e andrà punito per quello che ha fatto. »
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+L'uomo ha ucciso sua moglie davanti a suo figlio, un bambino di sei anni, fortunatamente non ha assistito alla scena.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il figlio della coppia, 6 anni, era in casa al momento dell'omicidio, ma per fortuna non ha assistito alla scena.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La coppia , sposata da una ventina d'anni , ha un figlio di sei anni che era in casa al momento dell'omicidio anche se fortunatamente non ha assistito alla scena .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo ha ucciso la moglie davanti al figlio di sei anni , fortunatamente il bambino non ha assistito alla scena .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La coppia , sposata da una ventina d'anni , ha un figlio di sei anni che era in casa al momento dell'omicidio anche se fortunatamente non ha assistito alla scena .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La coppia , sposata da una ventina d'anni , ha un figlio di sei anni che era in casa al momento dell'omicidio anche se fortunatamente non ha assistito alla scena .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il colpevole dell'omicidio è una persona che ha ucciso la sua moglie, distruggendo una famiglia.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) La coppia , sposata da una ventina d'anni , ha un figlio di sei anni che era in casa al momento dell'omicidio anche se fortunatamente non ha assistito alla scena .
+
+[[Question:MC:Select]]
+(B.1) L'uomo ha ucciso sua moglie davanti a suo figlio, un bambino di sei anni, fortunatamente non ha assistito alla scena.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Il figlio della coppia, 6 anni, era in casa al momento dell'omicidio, ma per fortuna non ha assistito alla scena.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) La coppia , sposata da una ventina d'anni , ha un figlio di sei anni che era in casa al momento dell'omicidio anche se fortunatamente non ha assistito alla scena .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) L'uomo ha ucciso la moglie davanti al figlio di sei anni , fortunatamente il bambino non ha assistito alla scena .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) La coppia , sposata da una ventina d'anni , ha un figlio di sei anni che era in casa al momento dell'omicidio anche se fortunatamente non ha assistito alla scena .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) La coppia , sposata da una ventina d'anni , ha un figlio di sei anni che era in casa al momento dell'omicidio anche se fortunatamente non ha assistito alla scena .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Il colpevole dell'omicidio è una persona che ha ucciso la sua moglie, distruggendo una famiglia.
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+E ' stato arrestato Mirco Alessi , 42 anni , transessuale di Firenze , perché ritenuto responsabile dell'omicidio di Gilberto Manoel Da Silva .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla . Ha ucciso una donna innocente solo perché era diversa da lui. Non possiamo permettere che questo accada. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicida è andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla . L'ha accoltellata e poi l'ha lasciata morire .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) E ' andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla .
+
+[[Question:MC:Select]]
+(B.1) E ' stato arrestato Mirco Alessi , 42 anni , transessuale di Firenze , perché ritenuto responsabile dell'omicidio di Gilberto Manoel Da Silva .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) E ' andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla . Ha ucciso una donna innocente solo perché era diversa da lui. Non possiamo permettere che questo accada. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) L'omicida è andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) E ' andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) E ' andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) E ' andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla . L'ha accoltellata e poi l'ha lasciata morire .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) E ' andato a casa di Gilberto Manoel Da Silva , la transessuale accoltellata ieri nel suo appartamento in centro a Firenze , con la precisa intenzione di ucciderla .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+L'uomo che ha ucciso la transessuale brasiliana Gilberto Manoel Da Silva non ha ancora fornito una valida giustificazione per il suo crimine.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Non è ancora chiaro il motivo della discussione , finita con una serie di coltellate date dall'uomo alla transessuale brasiliana , Gilberto Manoel Da Silva , 45 anni .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo ha ucciso la transessuale brasiliana Gilberto Manoel Da Silva , 45 anni , dopo una discussione .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stato arrestato Mirco Alessi , 42 anni , transessuale di Firenze , perché ritenuto responsabile dell'omicidio di Gilberto Manoel Da Silva .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Non è ancora chiaro il motivo della discussione , finita con una serie di coltellate date dall'uomo alla transessuale brasiliana , Gilberto Manoel Da Silva , 45 anni .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo alla transessuale brasiliana , Gilberto Manoel Da Silva , 45 anni , finito con una serie di coltellate .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo alla transessuale brasiliana , Gilberto Manoel Da Silva , 45 anni .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Non è ancora chiaro il motivo della discussione , finita con una serie di coltellate date dall'uomo alla transessuale brasiliana , Gilberto Manoel Da Silva , 45 anni .
+
+[[Question:MC:Select]]
+(B.1) L'uomo che ha ucciso la transessuale brasiliana Gilberto Manoel Da Silva non ha ancora fornito una valida giustificazione per il suo crimine.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Non è ancora chiaro il motivo della discussione , finita con una serie di coltellate date dall'uomo alla transessuale brasiliana , Gilberto Manoel Da Silva , 45 anni .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) L'uomo ha ucciso la transessuale brasiliana Gilberto Manoel Da Silva , 45 anni , dopo una discussione .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) E ' stato arrestato Mirco Alessi , 42 anni , transessuale di Firenze , perché ritenuto responsabile dell'omicidio di Gilberto Manoel Da Silva .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Non è ancora chiaro il motivo della discussione , finita con una serie di coltellate date dall'uomo alla transessuale brasiliana , Gilberto Manoel Da Silva , 45 anni .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) L'uomo alla transessuale brasiliana , Gilberto Manoel Da Silva , 45 anni , finito con una serie di coltellate .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) L'uomo alla transessuale brasiliana , Gilberto Manoel Da Silva , 45 anni .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+La lettera scritta dalle amiche della ragazza statunitense uccisa nel suo appartamento in Oltrarno , il magazine in inglese dedicato alla comunità americana a Firenze , una lunga lettera scritta dalle amiche della ragazza statunitense .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stato trovato morto suicida in un appartamento di Martinsicuro ( Teramo ) l'uomo che avrebbe accoltellato a morte l'oncologa Ester Pasqualoni , 27 anni , di Teramo , uccisa nel suo appartamento in Oltrarno .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Sul sito The Florentine , il magazine in inglese dedicato alla comunità americana a Firenze , una lunga lettera scritta dalle amiche della ragazza statunitense uccisa nel suo appartamento in Oltrarno .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Sul sito The Florentine, il magazine in inglese dedicato alla comunità americana a Firenze, una lunga lettera scritta dalle amiche della ragazza statunitense uccisa nel suo appartamento in Oltrarno. La lettera era indirizzata al colpevole.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di origini africane , Cheik Tidiane , è stato fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nel suo appartamento in Oltrarno .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Sul sito The Florentine , il magazine in inglese dedicato alla comunità americana a Firenze , una lunga lettera scritta dalle amiche della ragazza statunitense uccisa dal suo convivente nel suo appartamento in Oltrarno .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Sul sito The Florentine , il magazine in inglese dedicato alla comunità americana a Firenze , una lunga lettera scritta dalle amiche della ragazza statunitense uccisa nel suo appartamento in Oltrarno . L'omicidio di Ashley è un altro tragico esempio di femminicidio.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Sul sito The Florentine , il magazine in inglese dedicato alla comunità americana a Firenze , una lunga lettera scritta dalle amiche della ragazza statunitense uccisa nel suo appartamento in Oltrarno .
+
+[[Question:MC:Select]]
+(B.1) La lettera scritta dalle amiche della ragazza statunitense uccisa nel suo appartamento in Oltrarno , il magazine in inglese dedicato alla comunità americana a Firenze , una lunga lettera scritta dalle amiche della ragazza statunitense .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) E ' stato trovato morto suicida in un appartamento di Martinsicuro ( Teramo ) l'uomo che avrebbe accoltellato a morte l'oncologa Ester Pasqualoni , 27 anni , di Teramo , uccisa nel suo appartamento in Oltrarno .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Sul sito The Florentine , il magazine in inglese dedicato alla comunità americana a Firenze , una lunga lettera scritta dalle amiche della ragazza statunitense uccisa nel suo appartamento in Oltrarno .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Sul sito The Florentine, il magazine in inglese dedicato alla comunità americana a Firenze, una lunga lettera scritta dalle amiche della ragazza statunitense uccisa nel suo appartamento in Oltrarno. La lettera era indirizzata al colpevole.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Un uomo di origini africane , Cheik Tidiane , è stato fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nel suo appartamento in Oltrarno .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Sul sito The Florentine , il magazine in inglese dedicato alla comunità americana a Firenze , una lunga lettera scritta dalle amiche della ragazza statunitense uccisa dal suo convivente nel suo appartamento in Oltrarno .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Sul sito The Florentine , il magazine in inglese dedicato alla comunità americana a Firenze , una lunga lettera scritta dalle amiche della ragazza statunitense uccisa nel suo appartamento in Oltrarno . L'omicidio di Ashley è un altro tragico esempio di femminicidio.
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+La donna uccisa in un corridoio di una villa elegante nella zona della stazione di Perugia , via Bellocchio , al termine di una lite , l'ennesima .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio di  Ã¨ un altro esempio di femminicidio. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+uccide con una coltellata alla gola , nel bagno di casa , la moglie
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo uccide la sua ex moglie in una lite , nel corridoio di una villa elegante nella zona della stazione di Perugia , via Bellocchio .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo , Francesco Rosi , 40 anni , ha ucciso la moglie , Raffaella Presta , di 40 anni , con due colpi di fucile .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo , Francesco Rosi , ha ucciso la moglie Raffaella Presta , di 43 anni , e la figlia di 11 .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+In un elegante villa nella zona della stazione di Perugia, via Bellocchio, c'è stato un omicidio. La vittima è stata uccisa dopo una lite.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Tutto succede in un corridoio di una villa elegante nella zona della stazione di Perugia , via Bellocchio , al termine di una lite , l'ennesima .
+
+[[Question:MC:Select]]
+(B.1) La donna uccisa in un corridoio di una villa elegante nella zona della stazione di Perugia , via Bellocchio , al termine di una lite , l'ennesima .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) L'omicidio di  Ã¨ un altro esempio di femminicidio. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) uccide con una coltellata alla gola , nel bagno di casa , la moglie
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Un uomo uccide la sua ex moglie in una lite , nel corridoio di una villa elegante nella zona della stazione di Perugia , via Bellocchio .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Un uomo , Francesco Rosi , 40 anni , ha ucciso la moglie , Raffaella Presta , di 40 anni , con due colpi di fucile .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) L'uomo , Francesco Rosi , ha ucciso la moglie Raffaella Presta , di 43 anni , e la figlia di 11 .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) In un elegante villa nella zona della stazione di Perugia, via Bellocchio, c'è stato un omicidio. La vittima è stata uccisa dopo una lite.
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Americana uccisa a Firenze per mano del suo fidanzato , si riapre il caso
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Americana uccisa a Firenze , l'omicida ancora non è stato trovato
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Si riapre il caso dell'omicidio di Ashley Olsen, l'americana uccisa a Firenze.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La Americana uccisa a Firenze , si riapre il caso
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa a Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il caso di Ashley Olsen , la studentessa americana uccisa a Firenze , è stato riaperto .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La Americana uccisa a Firenze , si riapre il caso
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Americana uccisa a Firenze , si riapre il caso
+
+[[Question:MC:Select]]
+(B.1) Americana uccisa a Firenze per mano del suo fidanzato , si riapre il caso
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Americana uccisa a Firenze , l'omicida ancora non è stato trovato
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Si riapre il caso dell'omicidio di Ashley Olsen, l'americana uccisa a Firenze.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) La Americana uccisa a Firenze , si riapre il caso
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa a Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Il caso di Ashley Olsen , la studentessa americana uccisa a Firenze , è stato riaperto .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) La Americana uccisa a Firenze , si riapre il caso
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha parlato di « omicidio » e ha sottolineato che la vittima è stata uccisa per futili motivi .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha parlato di « omicidio per futili motivi » .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha parlato di « omicidio per futili motivi » , ma questo non è altro che un altro esempio di femminicidio.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha parlato di « omicidio per futili motivi » .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha dichiarato che l'omicidio è stato commesso per motivi futili .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+« Omicidio per futili motivi » è una frase sul femminicidio.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha parlato di « omicidio per futili motivi » .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha parlato di « omicidio per futili motivi » .
+
+[[Question:MC:Select]]
+(B.1) Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha parlato di « omicidio » e ha sottolineato che la vittima è stata uccisa per futili motivi .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha parlato di « omicidio per futili motivi » .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha parlato di « omicidio per futili motivi » , ma questo non è altro che un altro esempio di femminicidio.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha parlato di « omicidio per futili motivi » .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha dichiarato che l'omicidio è stato commesso per motivi futili .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) « Omicidio per futili motivi » è una frase sul femminicidio.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Il colonnello Cosimo Fiore , comandante provinciale dei carabinieri di Perugia , ha parlato di « omicidio per futili motivi » .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa a Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia è in programma per questo pomeriggio .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' l'autopsia di Cheik Tidiane Diaw , il senegalese senegalese accusato di aver ucciso Ashley Olsen .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia sulla vittima del femminicidio è in programma per questo pomeriggio.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia di Maria , la donna uccisa dal marito , è in programma per questo pomeriggio .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia di Maria , la donna uccisa dal marito , è in programma per questo pomeriggio .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia di Barbara Natale , 44 anni , uccisa nella sua casa di Asti , sarà eseguita questo pomeriggio .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) L'autopsia è in programma per questo pomeriggio .
+
+[[Question:MC:Select]]
+(B.1) Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa a Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) L'autopsia è in programma per questo pomeriggio .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) E ' l'autopsia di Cheik Tidiane Diaw , il senegalese senegalese accusato di aver ucciso Ashley Olsen .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) L'autopsia sulla vittima del femminicidio è in programma per questo pomeriggio.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) L'autopsia di Maria , la donna uccisa dal marito , è in programma per questo pomeriggio .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) L'autopsia di Maria , la donna uccisa dal marito , è in programma per questo pomeriggio .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) L'autopsia di Barbara Natale , 44 anni , uccisa nella sua casa di Asti , sarà eseguita questo pomeriggio .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+La giovane donna americana che viveva a Firenze è stata uccisa la mattina dell ' 8 gennaio scorso nel suo appartamento in via Santa Monaca , a Santo Spirito .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La giovane donna americana che viveva a Firenze è stata uccisa la mattina dell ' 8 gennaio scorso nel suo appartamento in via Santa Monaca , a Santo Spirito .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La giovane donna americana che viveva a Firenze è stata uccisa la mattina dell ' 8 gennaio scorso nel suo appartamento in via Santa Monaca , a Santo Spirito , da un assassino che non le ha lasciato scampo.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo che ha ucciso la giovane donna americana viveva con lei nello stesso appartamento in via Santa Monaca , a Santo Spirito .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Una giovane donna americana che viveva a Firenze è stata uccisa in via Santa Monaca, a Santo Spirito, la mattina dell'8 gennaio scorso.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La giovane donna americana che viveva a Firenze è stata uccisa la mattina dell ' 8 gennaio scorso nel suo appartamento in via Santa Monaca , a Santo Spirito .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicida della giovane donna americana che viveva a Firenze è ancora ignoto, ma la mattina dell' 8 gennaio scorso , nel suo appartamento in via Santa Monaca , a Santo Spirito , è stata trovata uccisa .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) La giovane donna americana che viveva a Firenze è stata uccisa la mattina dell ' 8 gennaio scorso nel suo appartamento in via Santa Monaca , a Santo Spirito .
+
+[[Question:MC:Select]]
+(B.1) La giovane donna americana che viveva a Firenze è stata uccisa la mattina dell ' 8 gennaio scorso nel suo appartamento in via Santa Monaca , a Santo Spirito .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) La giovane donna americana che viveva a Firenze è stata uccisa la mattina dell ' 8 gennaio scorso nel suo appartamento in via Santa Monaca , a Santo Spirito .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) La giovane donna americana che viveva a Firenze è stata uccisa la mattina dell ' 8 gennaio scorso nel suo appartamento in via Santa Monaca , a Santo Spirito , da un assassino che non le ha lasciato scampo.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) L'uomo che ha ucciso la giovane donna americana viveva con lei nello stesso appartamento in via Santa Monaca , a Santo Spirito .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Una giovane donna americana che viveva a Firenze è stata uccisa in via Santa Monaca, a Santo Spirito, la mattina dell'8 gennaio scorso.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) La giovane donna americana che viveva a Firenze è stata uccisa la mattina dell ' 8 gennaio scorso nel suo appartamento in via Santa Monaca , a Santo Spirito .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) L'omicida della giovane donna americana che viveva a Firenze è ancora ignoto, ma la mattina dell' 8 gennaio scorso , nel suo appartamento in via Santa Monaca , a Santo Spirito , è stata trovata uccisa .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+E ' stato arrestato Mirco Alessi , l'uomo accusato di aver ucciso a coltellate la moglie Gilberto Manoel Da Silva .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il fidanzato di Mirco Alessi , il transessuale brasiliano arrestato per l'omicidio di Gilberto Manoel Da Silva , ha raccontato di aver ucciso a coltellate la transessuale brasiliana .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Una donna è stata uccisa a coltellate dal marito nella loro casa in via XXV Aprile.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Secondo quanto appreso, l'aggressore ha accoltellato due volte la vittima poco dopo le 6:40 in un appartamento.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Secondo quanto appreso si tratta di un doppio accoltellamento avvenuto poco dopo le 6,40 in un appartamento , in cui hanno perso la vita due persone .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di 69 anni , Antonio Parisi , ha ucciso a bastonate la moglie , Giordana Di Stefano , di 69 , dalla quale aveva avuto una bambina di 4 anni .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Una donna è stata uccisa con due coltellate dal marito nella loro abitazione .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Secondo quanto appreso si tratta di un doppio accoltellamento avvenuto poco dopo le 6,40 in un appartamento .
+
+[[Question:MC:Select]]
+(B.1) E ' stato arrestato Mirco Alessi , l'uomo accusato di aver ucciso a coltellate la moglie Gilberto Manoel Da Silva .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Il fidanzato di Mirco Alessi , il transessuale brasiliano arrestato per l'omicidio di Gilberto Manoel Da Silva , ha raccontato di aver ucciso a coltellate la transessuale brasiliana .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Una donna è stata uccisa a coltellate dal marito nella loro casa in via XXV Aprile.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Secondo quanto appreso, l'aggressore ha accoltellato due volte la vittima poco dopo le 6:40 in un appartamento.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Secondo quanto appreso si tratta di un doppio accoltellamento avvenuto poco dopo le 6,40 in un appartamento , in cui hanno perso la vita due persone .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Un uomo di 69 anni , Antonio Parisi , ha ucciso a bastonate la moglie , Giordana Di Stefano , di 69 , dalla quale aveva avuto una bambina di 4 anni .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Una donna è stata uccisa con due coltellate dal marito nella loro abitazione .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+L'omicida femminicida sarà giudicato nel carcere di Capanne .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il processo verrà celebrato nel carcere di Capanne .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicida dovrà scontare la sua pena in carcere.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di 79 anni , Francesco Rosi , ha ucciso la moglie , Raffaella Presta , di 79 anni , e la figlia di 11 .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il colpevole del femminicidio sarà rinchiuso nel carcere di Capanne.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo , Francesco Rosi , ha ucciso la moglie , Raffaella Presta , avvocato di 43 anni , colpendola alla testa con un colpo di fucile alla testa .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Uccide la moglie e si spara nel carcere di Capanne
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Che si svolgerà nel carcere di Capanne .
+
+[[Question:MC:Select]]
+(B.1) L'omicida femminicida sarà giudicato nel carcere di Capanne .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Il processo verrà celebrato nel carcere di Capanne .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) L'omicida dovrà scontare la sua pena in carcere.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Un uomo di 79 anni , Francesco Rosi , ha ucciso la moglie , Raffaella Presta , di 79 anni , e la figlia di 11 .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Il colpevole del femminicidio sarà rinchiuso nel carcere di Capanne.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Un uomo , Francesco Rosi , ha ucciso la moglie , Raffaella Presta , avvocato di 43 anni , colpendola alla testa con un colpo di fucile alla testa .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Uccide la moglie e si spara nel carcere di Capanne
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Nel giorno in cui tutto il mondo ha celebrato la Giornata contro la violenza sulle donne, un altro femminicidio è stato compiuto.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Nel giorno in cui tutto il mondo ha celebrato la Giornata contro la violenza sulle donne , un'altra donna è stata uccisa da un uomo che non sopportava di vederla vivere .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo , Francesco Rosi , 40 anni , ha ucciso la moglie Raffaella Presta , avvocato di 43 anni originaria del brindisino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E nel giorno in cui tutto il mondo ha celebrato la Giornata contro la violenza sulle donne , un'altra è stata uccisa .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Mentre tutto il mondo celebrava la Giornata contro la violenza sulle donne , un'altra donna è stata uccisa . Questo non può e non deve continuare. Dobbiamo fare qualcosa per fermare questa follia.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+In a day where the world came together to celebrate the International Day for the Elimination of Violence Against Women, another was killed.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il giorno in cui tutto il mondo ha celebrato la Giornata contro la violenza sulle donne , un'altra è stata uccisa .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Nel giorno in cui tutto il mondo ha celebrato la Giornata contro la violenza sulle donne , un'altra è stata uccisa .
+
+[[Question:MC:Select]]
+(B.1) Nel giorno in cui tutto il mondo ha celebrato la Giornata contro la violenza sulle donne, un altro femminicidio è stato compiuto.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Nel giorno in cui tutto il mondo ha celebrato la Giornata contro la violenza sulle donne , un'altra donna è stata uccisa da un uomo che non sopportava di vederla vivere .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Un uomo , Francesco Rosi , 40 anni , ha ucciso la moglie Raffaella Presta , avvocato di 43 anni originaria del brindisino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) E nel giorno in cui tutto il mondo ha celebrato la Giornata contro la violenza sulle donne , un'altra è stata uccisa .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Mentre tutto il mondo celebrava la Giornata contro la violenza sulle donne , un'altra donna è stata uccisa . Questo non può e non deve continuare. Dobbiamo fare qualcosa per fermare questa follia.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) In a day where the world came together to celebrate the International Day for the Elimination of Violence Against Women, another was killed.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Il giorno in cui tutto il mondo ha celebrato la Giornata contro la violenza sulle donne , un'altra è stata uccisa .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Le indagini , coordinate dal pm Daniela Cento , avrebbero portato gli inquirenti a ricostruire quanto successo all'alba del 29 giugno quando Alessi si recò nella casa di Kymberli - questo il nome con cui era conosciuto il transessuale - con il quale avrebbe avuto una vera e propria relazione , segnata però dalla continua richiesta di denaro nei suoi confronti . Alessi , dopo aver ascoltato le continue richieste di denaro , ha perso la testa e ha ucciso Kymberli .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Alessi uccise Kymberli perché quest'ultimo/a continuava a chiedere denaro.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Alessi ha ucciso Kymberli perché era un transessuale. Non c'è alcuna giustificazione per questo crimine. Le donne transgender hanno diritto di vivere senza paura di essere uccise solo perché sono diverse.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio avvenne all'alba del 29 giugno quando Alessi si recò nella casa di Kymberli - questo il nome con cui era conosciuto il transessuale - con il quale avrebbe avuto una vera e propria relazione , segnata però dalla continua richiesta di denaro nei suoi confronti .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La polizia , coordinate dal pm Daniela Cento , avrebbero portato gli inquirenti a ricostruire quanto successo all'alba del 29 giugno quando Alessi si recò nella casa di Kymberli - questo il nome con cui era conosciuto il transessuale - con il quale avrebbe avuto una vera e propria relazione , segnata però dalla continua
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il transessuale avrebbe avuto una vera e propria relazione , segnata però dalla continua richiesta di denaro nei suoi confronti .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Le indagini, coordinate dal pm Daniela Cento, hanno ricostruito quanto successo all'alba del 29 giugno, quando Alessi è andato nella casa di Kymberli - questo è il nome con cui il transessuale era conosciuto - con il quale aveva una vera e propria relazione, ma Kymberli continuava a chiedergli denaro.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Le indagini , coordinate dal pm Daniela Cento , avrebbero portato gli inquirenti a ricostruire quanto successo all'alba del 29 giugno quando Alessi si recò nella casa di Kymberli - questo il nome con cui era conosciuto il transessuale - con il quale avrebbe avuto una vera e propria relazione , segnata però dalla continua richiesta di denaro nei suoi confronti .
+
+[[Question:MC:Select]]
+(B.1) Le indagini , coordinate dal pm Daniela Cento , avrebbero portato gli inquirenti a ricostruire quanto successo all'alba del 29 giugno quando Alessi si recò nella casa di Kymberli - questo il nome con cui era conosciuto il transessuale - con il quale avrebbe avuto una vera e propria relazione , segnata però dalla continua richiesta di denaro nei suoi confronti . Alessi , dopo aver ascoltato le continue richieste di denaro , ha perso la testa e ha ucciso Kymberli .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Alessi uccise Kymberli perché quest'ultimo/a continuava a chiedere denaro.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Alessi ha ucciso Kymberli perché era un transessuale. Non c'è alcuna giustificazione per questo crimine. Le donne transgender hanno diritto di vivere senza paura di essere uccise solo perché sono diverse.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) L'omicidio avvenne all'alba del 29 giugno quando Alessi si recò nella casa di Kymberli - questo il nome con cui era conosciuto il transessuale - con il quale avrebbe avuto una vera e propria relazione , segnata però dalla continua richiesta di denaro nei suoi confronti .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) La polizia , coordinate dal pm Daniela Cento , avrebbero portato gli inquirenti a ricostruire quanto successo all'alba del 29 giugno quando Alessi si recò nella casa di Kymberli - questo il nome con cui era conosciuto il transessuale - con il quale avrebbe avuto una vera e propria relazione , segnata però dalla continua
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Il transessuale avrebbe avuto una vera e propria relazione , segnata però dalla continua richiesta di denaro nei suoi confronti .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Le indagini, coordinate dal pm Daniela Cento, hanno ricostruito quanto successo all'alba del 29 giugno, quando Alessi è andato nella casa di Kymberli - questo è il nome con cui il transessuale era conosciuto - con il quale aveva una vera e propria relazione, ma Kymberli continuava a chiedergli denaro.
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Un nuovo tragico caso di femminicidio nel giorno in cui si celebra la Giornata contro la violenza sulle donne .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+A Perugia un altro tragico caso di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un nuovo tragico caso di femminicidio nel giorno in cui si celebra la Giornata contro la violenza sulle donne .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo , Francesco Rosi , 40 anni , ha ucciso la moglie Raffaella Presta , avvocato di 43 anni originaria del brindisino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Giorno della memoria e dell'impegno in ricordo delle vittime innocenti di femminicidio . A Perugia una donna uccisa dal compagno .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Perugia è stata sconvolta da un nuovo tragico caso di femminicidio, in cui una donna è stata uccisa dal suo compagno.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+A Perugia un uomo ha ucciso la sua compagna nel giorno in cui si celebra la Giornata contro la violenza sulle donne .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) A Perugia un nuovo tragico caso di femminicidio nel giorno in cui si celebra la Giornata contro la violenza sulle donna .
+
+[[Question:MC:Select]]
+(B.1) Un nuovo tragico caso di femminicidio nel giorno in cui si celebra la Giornata contro la violenza sulle donne .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) A Perugia un altro tragico caso di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Un nuovo tragico caso di femminicidio nel giorno in cui si celebra la Giornata contro la violenza sulle donne .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Un uomo , Francesco Rosi , 40 anni , ha ucciso la moglie Raffaella Presta , avvocato di 43 anni originaria del brindisino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Giorno della memoria e dell'impegno in ricordo delle vittime innocenti di femminicidio . A Perugia una donna uccisa dal compagno .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Perugia è stata sconvolta da un nuovo tragico caso di femminicidio, in cui una donna è stata uccisa dal suo compagno.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) A Perugia un uomo ha ucciso la sua compagna nel giorno in cui si celebra la Giornata contro la violenza sulle donne .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+L'autopsia appurò che 'Kimberli ' era stata massacrata da 94 coltellate , mentre l'amica era morta dissanguata , nell'androne del palazzo mentre tentava una fuga disperata .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia ha appurato che ' Kimberli ' è stata massacrata da 94 coltellate e l'amica è morta dissanguata nell'androne del palazzo mentre tentava una fuga disperata .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il killer aveva appostato le sue vittime nell'androne del palazzo, massacrandole con 94 coltellate. L'amica di Kimberli era morta dissanguata mentre tentava di fuggire.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia appurò che 'Kimberli ' era stata massacrata da 94 coltellate , mentre l'amica era morta dissanguata , nell'androne del palazzo mentre tentava una fuga disperata .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il colpevole di questo crimine è stato identificato come il fidanzato di Kimberli.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio di Kimberli e della sua amica è un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stato arrestato Mirco Alessi , l'uomo arrestato per l'omicidio di Gilberto Manoel Da Silva .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) In seguito l'autopsia appurò che 'Kimberli ' era stata massacrata da 94 coltellate , mentre l'amica era morta dissanguata , nell'androne del palazzo mentre tentava una fuga disperata .
+
+[[Question:MC:Select]]
+(B.1) L'autopsia appurò che 'Kimberli ' era stata massacrata da 94 coltellate , mentre l'amica era morta dissanguata , nell'androne del palazzo mentre tentava una fuga disperata .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) L'autopsia ha appurato che ' Kimberli ' è stata massacrata da 94 coltellate e l'amica è morta dissanguata nell'androne del palazzo mentre tentava una fuga disperata .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Il killer aveva appostato le sue vittime nell'androne del palazzo, massacrandole con 94 coltellate. L'amica di Kimberli era morta dissanguata mentre tentava di fuggire.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) L'autopsia appurò che 'Kimberli ' era stata massacrata da 94 coltellate , mentre l'amica era morta dissanguata , nell'androne del palazzo mentre tentava una fuga disperata .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Il colpevole di questo crimine è stato identificato come il fidanzato di Kimberli.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) L'omicidio di Kimberli e della sua amica è un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) E ' stato arrestato Mirco Alessi , l'uomo arrestato per l'omicidio di Gilberto Manoel Da Silva .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+La donna è stata trovata morta, con segni di graffi e lividi sul collo.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stato fermato il presunto assassino di Ashley Olsen , la sedicenne americana trovata morta , da ore , con segni di graffi ed ecchimosi sul collo .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Lui l'ha trovata morta, da ore, con segni di graffi ed ecchimosi sul collo.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stata trovata morta , da ore , con segni di graffi ed ecchimosi sul collo . L'assassino l'ha strangolata .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stata trovata morta , da ore , con segni di strangolamento sul collo .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stata trovata morta Ashley Olsen , da ore , con segni di graffi ed ecchimosi sul collo ..
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa a Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) E ' stata trovata morta , da ore , con segni di graffi ed ecchimosi sul collo .
+
+[[Question:MC:Select]]
+(B.1) La donna è stata trovata morta, con segni di graffi e lividi sul collo.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) E ' stato fermato il presunto assassino di Ashley Olsen , la sedicenne americana trovata morta , da ore , con segni di graffi ed ecchimosi sul collo .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Lui l'ha trovata morta, da ore, con segni di graffi ed ecchimosi sul collo.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) E ' stata trovata morta , da ore , con segni di graffi ed ecchimosi sul collo . L'assassino l'ha strangolata .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) E ' stata trovata morta , da ore , con segni di strangolamento sul collo .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) E ' stata trovata morta Ashley Olsen , da ore , con segni di graffi ed ecchimosi sul collo ..
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa a Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Un uomo , Francesco Rosi , 40 anni , ha ucciso a colpi di fucile la moglie Raffaella Presta , avvocato di 43 anni , originaria del brindisino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La coppia però « a proiettili » - puntualizza la relazione del pm Valentina Manuali- , quelli che si aprono a foglia di plastica allo scopo di lacerare il corpo e provocare ferite ancora più letali .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+ha sparato alla ex compagna più volte, con l'intenzione di ucciderla.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicida ha sparato a proiettili multipli a quella donna, uccidendola in modo orribile.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'assassino ha sparato a proiettili multipli alla sua vittima , lacerando il suo corpo e causando ferite ancora più letali .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Stavolta però il killer ha usato « a proiettili multipli » - puntualizza la relazione del pm Valentina Manuali- , quelli che si aprono a foglia di rosa allo scopo di lacerare il corpo e provocare ferite ancora più letali .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La Stavolta però « a proiettili multipli » - puntualizza la relazione del pm Valentina Manuali- , quelli che si aprono a foglia di plastica allo scopo di lacerare il corpo e provocare ferite ancora più letali .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Stavolta però « a proiettili multipli » - puntualizza la relazione del pm Valentina Manuali- , quelli che si aprono a foglia di rosa allo scopo di lacerare il corpo e provocare ferite ancora più letali .
+
+[[Question:MC:Select]]
+(B.1) Un uomo , Francesco Rosi , 40 anni , ha ucciso a colpi di fucile la moglie Raffaella Presta , avvocato di 43 anni , originaria del brindisino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) La coppia però « a proiettili » - puntualizza la relazione del pm Valentina Manuali- , quelli che si aprono a foglia di plastica allo scopo di lacerare il corpo e provocare ferite ancora più letali .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) ha sparato alla ex compagna più volte, con l'intenzione di ucciderla.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) L'omicida ha sparato a proiettili multipli a quella donna, uccidendola in modo orribile.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) L'assassino ha sparato a proiettili multipli alla sua vittima , lacerando il suo corpo e causando ferite ancora più letali .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Stavolta però il killer ha usato « a proiettili multipli » - puntualizza la relazione del pm Valentina Manuali- , quelli che si aprono a foglia di rosa allo scopo di lacerare il corpo e provocare ferite ancora più letali .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) La Stavolta però « a proiettili multipli » - puntualizza la relazione del pm Valentina Manuali- , quelli che si aprono a foglia di plastica allo scopo di lacerare il corpo e provocare ferite ancora più letali .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+I genitori non volevano sapere i dettagli dell'omicidio, come è stata uccisa la figlia.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Non hanno voluto sapere come hanno ucciso la figlia, i dettagli dell'omicidio.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di 79 anni , Antonio Parisi , ha ucciso a bastonate la moglie , Giordana Di Stefano , di 79 .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Non hanno voluto sapere i dettagli dell ’ omicidio , perché non vogliono sapere come la figlia è stata uccisa .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di 27 anni , Cheik Tidiane Diaw , ha ucciso Ashley Olsen .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l ’ omicidio di Ashley Olsen , la 35enne statunitense uccisa a Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Non hanno voluto sapere i dettagli dell ’ omicidio , sapere come la figlia è stata uccisa dal suo assassino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Non hanno voluto sapere i dettagli dell ’ omicidio , sapere come la figlia è stata uccisa .
+
+[[Question:MC:Select]]
+(B.1) I genitori non volevano sapere i dettagli dell'omicidio, come è stata uccisa la figlia.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Non hanno voluto sapere come hanno ucciso la figlia, i dettagli dell'omicidio.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Un uomo di 79 anni , Antonio Parisi , ha ucciso a bastonate la moglie , Giordana Di Stefano , di 79 .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Non hanno voluto sapere i dettagli dell ’ omicidio , perché non vogliono sapere come la figlia è stata uccisa .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Un uomo di 27 anni , Cheik Tidiane Diaw , ha ucciso Ashley Olsen .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l ’ omicidio di Ashley Olsen , la 35enne statunitense uccisa a Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Non hanno voluto sapere i dettagli dell ’ omicidio , sapere come la figlia è stata uccisa dal suo assassino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+La palazzina La palazzina dove si è consumato il delitto è composta da più appartamenti , dove vivono i familiari della coppia .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La palazzina dove si è consumato il delitto è composta da più appartamenti , dove vivono i familiari della coppia . L'omicida , dopo aver ucciso la vittima , è fuggito nel corso della notte .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+I vicini di casa della coppia uccisa a coltellate nella notte a Misterbianco sono sotto choc .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio è avvenuto nella palazzina dove vivono i familiari della coppia.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La palazzina dove si è consumato il delitto è composta da più appartamenti , dove vivono i familiari della coppia .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La palazzina dove si è consumato il delitto è composta da più appartamenti , dove vivono i familiari della coppia .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+I familiari della coppia vivono nella palazzina dove si è consumato il delitto.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) La palazzina dove si è consumato il delitto è composta da più appartamenti , dove vivono i familiari della coppia .
+
+[[Question:MC:Select]]
+(B.1) La palazzina La palazzina dove si è consumato il delitto è composta da più appartamenti , dove vivono i familiari della coppia .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) La palazzina dove si è consumato il delitto è composta da più appartamenti , dove vivono i familiari della coppia . L'omicida , dopo aver ucciso la vittima , è fuggito nel corso della notte .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) I vicini di casa della coppia uccisa a coltellate nella notte a Misterbianco sono sotto choc .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) L'omicidio è avvenuto nella palazzina dove vivono i familiari della coppia.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) La palazzina dove si è consumato il delitto è composta da più appartamenti , dove vivono i familiari della coppia .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) La palazzina dove si è consumato il delitto è composta da più appartamenti , dove vivono i familiari della coppia .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) I familiari della coppia vivono nella palazzina dove si è consumato il delitto.
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Stando alle prime informazioni, una persona si sarebbe salvata lanciandosi dalla finestra di un'abitazione, mentre un altro si sarebbe macchiato di duplice omicidio questa mattina a Firenze.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stato arrestato Mirco Alessi , transessuale di 43 anni , perché ritenuto responsabile dell'omicidio di Gilberto Manoel Da Silva .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il Duplice omicidio stamani a Firenze mentre una terza persona , stando alle prime informazioni , si sarebbe salvata lanciandosi dalla finestra di un'abitazione .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo uccide la moglie e la figlia, la terza persona si salva lanciandosi dalla finestra. Un altro femminicidio che non può essere ignorato.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio stamani a Firenze mentre una terza persona , stando alle prime informazioni , si sarebbe salvata lanciandosi dalla finestra di un'abitazione ..
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Duplice omicidio stamani a Firenze: una terza persona, stando alle prime informazioni, si sarebbe salvata lanciandosi dalla finestra di un'abitazione.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo ha ucciso due donne e una terza persona si è salvata lanciandosi dalla finestra di un'abitazione .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Duplice omicidio stamani a Firenze mentre una terza persona , stando alle prime informazioni , si sarebbe salvata lanciandosi dalla finestra di un'abitazione .
+
+[[Question:MC:Select]]
+(B.1) Stando alle prime informazioni, una persona si sarebbe salvata lanciandosi dalla finestra di un'abitazione, mentre un altro si sarebbe macchiato di duplice omicidio questa mattina a Firenze.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) E ' stato arrestato Mirco Alessi , transessuale di 43 anni , perché ritenuto responsabile dell'omicidio di Gilberto Manoel Da Silva .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Il Duplice omicidio stamani a Firenze mentre una terza persona , stando alle prime informazioni , si sarebbe salvata lanciandosi dalla finestra di un'abitazione .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Un uomo uccide la moglie e la figlia, la terza persona si salva lanciandosi dalla finestra. Un altro femminicidio che non può essere ignorato.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) L'omicidio stamani a Firenze mentre una terza persona , stando alle prime informazioni , si sarebbe salvata lanciandosi dalla finestra di un'abitazione ..
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Duplice omicidio stamani a Firenze: una terza persona, stando alle prime informazioni, si sarebbe salvata lanciandosi dalla finestra di un'abitazione.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Un uomo ha ucciso due donne e una terza persona si è salvata lanciandosi dalla finestra di un'abitazione .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+« È una vicenda complessa - ha concluso il legale - che ha rovinato la vita di almeno quattro famiglie. Il colpevole di questo crimine orribile deve essere punito al massimo della pena prevista dalla legge».
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+« È una vicenda complessa - ha concluso il legale - che è iniziata con un femminicidio e ha rovinato la vita di almeno quattro famiglie » .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+« Una donna è stata uccisa. Non c'è altro da dire. Questo è un femminicidio, un omicidio di donna, e come tale va punito. Non c'è altro da aggiungere. »
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo , Francesco Rosi , ha ucciso la moglie , Raffaella Presta , avvocato di 43 anni , con due colpi di fucile alla testa e poi si è suicidato lanciandosi dal terzo piano dell'abitazione .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+« È una vicenda complessa - ha concluso il legale - che ha rovinato la vita di almeno quattro famiglie » .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'ha uccisa , ha concluso il legale - che ha rovinato la vita di almeno quattro famiglie » .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo ha confessato l'omicidio della moglie .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) « È una vicenda complessa - ha concluso il legale - che ha rovinato la vita di almeno quattro famiglie » .
+
+[[Question:MC:Select]]
+(B.1) « È una vicenda complessa - ha concluso il legale - che ha rovinato la vita di almeno quattro famiglie. Il colpevole di questo crimine orribile deve essere punito al massimo della pena prevista dalla legge».
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) « È una vicenda complessa - ha concluso il legale - che è iniziata con un femminicidio e ha rovinato la vita di almeno quattro famiglie » .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) « Una donna è stata uccisa. Non c'è altro da dire. Questo è un femminicidio, un omicidio di donna, e come tale va punito. Non c'è altro da aggiungere. »
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Un uomo , Francesco Rosi , ha ucciso la moglie , Raffaella Presta , avvocato di 43 anni , con due colpi di fucile alla testa e poi si è suicidato lanciandosi dal terzo piano dell'abitazione .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) « È una vicenda complessa - ha concluso il legale - che ha rovinato la vita di almeno quattro famiglie » .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) L'ha uccisa , ha concluso il legale - che ha rovinato la vita di almeno quattro famiglie » .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) L'uomo ha confessato l'omicidio della moglie .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Un uomo , Francesco Rosi , 40 anni , ha ucciso la moglie , Raffaella Presta , avvocato di 43 anni , originaria del brindisino .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo ha rivolto un pensiero proprio al bimbo « che si trova la mamma uccisa da chi avrebbe avuto il dovere di proteggere il piccolo e la mamma .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il bimbo si trova la mamma uccisa da chi avrebbe avuto il dovere di proteggere il piccolo e la mamma.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Catiuscia Marini , presidente della Regione , ha rivolto un pensiero proprio al bimbo « che si trova la mamma uccisa da chi avrebbe avuto il dovere di proteggere il piccolo e la mamma ». Ha definito l'accaduto « una vera emergenza sociale e culturale ».
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Questa è una vera emergenza sociale e culturale » , è il commento della presidente della Regione , Catiuscia Marini , che ha rivolto un pensiero proprio al bimbo « che si trova ora con la mamma uccisa da chi avrebbe avuto il dovere di proteggere il piccolo .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Catiuscia Marini , presidente della Regione , ha commentato l'omicidio di una donna uccisa dal proprio convivente dicendo che si tratta di una vera emergenza sociale e culturale .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il commento della presidente della Regione , Catiuscia Marini , che ha rivolto un pensiero proprio al bimbo « che si trova la mamma uccisa da chi avrebbe avuto il dovere di proteggere il piccolo e la mamma .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Questa è una vera emergenza sociale e culturale » , è il commento della presidente della Regione , Catiuscia Marini , che ha rivolto un pensiero proprio al bimbo « che si trova la mamma uccisa da chi avrebbe avuto il dovere di proteggere il piccolo e la mamma .
+
+[[Question:MC:Select]]
+(B.1) Un uomo , Francesco Rosi , 40 anni , ha ucciso la moglie , Raffaella Presta , avvocato di 43 anni , originaria del brindisino .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) L'uomo ha rivolto un pensiero proprio al bimbo « che si trova la mamma uccisa da chi avrebbe avuto il dovere di proteggere il piccolo e la mamma .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Il bimbo si trova la mamma uccisa da chi avrebbe avuto il dovere di proteggere il piccolo e la mamma.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Catiuscia Marini , presidente della Regione , ha rivolto un pensiero proprio al bimbo « che si trova la mamma uccisa da chi avrebbe avuto il dovere di proteggere il piccolo e la mamma ». Ha definito l'accaduto « una vera emergenza sociale e culturale ».
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Questa è una vera emergenza sociale e culturale » , è il commento della presidente della Regione , Catiuscia Marini , che ha rivolto un pensiero proprio al bimbo « che si trova ora con la mamma uccisa da chi avrebbe avuto il dovere di proteggere il piccolo .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Catiuscia Marini , presidente della Regione , ha commentato l'omicidio di una donna uccisa dal proprio convivente dicendo che si tratta di una vera emergenza sociale e culturale .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Il commento della presidente della Regione , Catiuscia Marini , che ha rivolto un pensiero proprio al bimbo « che si trova la mamma uccisa da chi avrebbe avuto il dovere di proteggere il piccolo e la mamma .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+L'omicidio `` ha avuto sia un'intenzione di uccidere Ashley '' .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio `` ha avuto sia un'azione contundente , sia un'azione di strangolamento '' .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio ha avuto come conseguenza sia una ferita contundente, sia un'asfissia da strangolamento.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio `` ha avuto sia un'azione contundente , sia un'azione di strangolamento '' .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicida ha avuto sia un'azione contundente , sia un'azione di strangolamento '' .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicida ha ucciso la vittima sia con un'azione contundente , sia con un'azione di strangolamento .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio è stato un gesto brutale e premeditato, mirato a soffocare la vita di una donna.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) L'omicidio `` ha avuto sia un'azione contundente , sia un'azione di strangolamento '' .
+
+[[Question:MC:Select]]
+(B.1) L'omicidio `` ha avuto sia un'intenzione di uccidere Ashley '' .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) L'omicidio `` ha avuto sia un'azione contundente , sia un'azione di strangolamento '' .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) L'omicidio ha avuto come conseguenza sia una ferita contundente, sia un'asfissia da strangolamento.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) L'omicidio `` ha avuto sia un'azione contundente , sia un'azione di strangolamento '' .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) L'omicida ha avuto sia un'azione contundente , sia un'azione di strangolamento '' .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) L'omicida ha ucciso la vittima sia con un'azione contundente , sia con un'azione di strangolamento .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) L'omicidio è stato un gesto brutale e premeditato, mirato a soffocare la vita di una donna.
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+L'ho uccisa io , venite qui » .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di 79 anni , Francesco Rosi , ha ucciso a coltellate la moglie , Raffaella Presta , di 79 anni .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Ho ucciso io sua moglie.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+« L'ho uccisa io ».
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+« L'ho uccisa perché non voleva vivere con me. Non voleva assecondare i miei desideri. Non voleva fare quello che volevo io. Non voleva essere la mia proprietà. L'ho uccisa perché non voleva essere un oggetto. L'ho uccisa perché era una donna e aveva il diritto di vivere la sua vita come voleva. L'ho uccisa perché non potevo sopportare di non avere il controllo su di lei. L'ho uccisa perché non potevo tollerare che lei fosse una persona a sé stante. L'ho uccisa perché non potevo tollerare che lei avesse una volontà propria. L'ho uccisa perché non potevo tollerare che lei non fosse una mia proprietà. »
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'ho uccisa » .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+« L'ho uccisa ».
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) « L'ho uccisa » .
+
+[[Question:MC:Select]]
+(B.1) L'ho uccisa io , venite qui » .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Un uomo di 79 anni , Francesco Rosi , ha ucciso a coltellate la moglie , Raffaella Presta , di 79 anni .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Ho ucciso io sua moglie.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) « L'ho uccisa io ».
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) « L'ho uccisa perché non voleva vivere con me. Non voleva assecondare i miei desideri. Non voleva fare quello che volevo io. Non voleva essere la mia proprietà. L'ho uccisa perché non voleva essere un oggetto. L'ho uccisa perché era una donna e aveva il diritto di vivere la sua vita come voleva. L'ho uccisa perché non potevo sopportare di non avere il controllo su di lei. L'ho uccisa perché non potevo tollerare che lei fosse una persona a sé stante. L'ho uccisa perché non potevo tollerare che lei avesse una volontà propria. L'ho uccisa perché non potevo tollerare che lei non fosse una mia proprietà. »
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) L'ho uccisa » .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) « L'ho uccisa ».
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Il funerale della 40enne uccisa al culmine di una lite familiare si è tenuto nel pomeriggio, alla presenza di tutti i cittadini del paese. La donna si trovava in casa insieme al figlio di 6 anni della coppia.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il bimbo di 6 anni della coppia ha assistito all'omicidio della madre, uccisa al culmine di una lite familiare.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La 40enne uccisa al culmine di una lite familiare in casa dove si trovava anche il bimbo di 6 anni della coppia è una vittima innocente di un femminicidio.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il pomeriggio tutto il paese ha partecipato al funerale della 40enne uccisa al culmine di una lite familiare in casa dove si trovava anche il bimbo di 6 anni della coppia .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Nel pomeriggio tutto il paese ha partecipato al funerale della 40enne uccisa dal marito al culmine di una lite familiare in casa dove si trovava anche il bimbo di 6 anni della coppia .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il funerale della 40enne uccisa al culmine di una lite familiare in casa dove si trovava anche il bimbo di 6 anni della coppia .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E nel pomeriggio tutto il paese ha partecipato al funerale della 40enne uccisa al culmine di una lite familiare in casa dove si trovava anche il bimbo di 6 anni della coppia .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Nel pomeriggio tutto il paese ha partecipato al funerale della 40enne uccisa al culmine di una lite familiare in casa dove si trovava anche il bimbo di 6 anni della coppia .
+
+[[Question:MC:Select]]
+(B.1) Il funerale della 40enne uccisa al culmine di una lite familiare si è tenuto nel pomeriggio, alla presenza di tutti i cittadini del paese. La donna si trovava in casa insieme al figlio di 6 anni della coppia.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Il bimbo di 6 anni della coppia ha assistito all'omicidio della madre, uccisa al culmine di una lite familiare.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) La 40enne uccisa al culmine di una lite familiare in casa dove si trovava anche il bimbo di 6 anni della coppia è una vittima innocente di un femminicidio.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Il pomeriggio tutto il paese ha partecipato al funerale della 40enne uccisa al culmine di una lite familiare in casa dove si trovava anche il bimbo di 6 anni della coppia .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Nel pomeriggio tutto il paese ha partecipato al funerale della 40enne uccisa dal marito al culmine di una lite familiare in casa dove si trovava anche il bimbo di 6 anni della coppia .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Il funerale della 40enne uccisa al culmine di una lite familiare in casa dove si trovava anche il bimbo di 6 anni della coppia .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) E nel pomeriggio tutto il paese ha partecipato al funerale della 40enne uccisa al culmine di una lite familiare in casa dove si trovava anche il bimbo di 6 anni della coppia .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Dopo l'omicidio, il colpevole non sembra avere alcuna consapevolezza di quanto sia grave il crimine che ha commesso, né tantomeno sembra sentirsi in colpa.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il suo comportamento dopo l'omicidio , sostiene il gip , colpisce la mancanza di una presa di coscienza di quanto commesso e `` l'assenza di pentimento '' .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicida femminicida , dopo aver ucciso , non si è pentito del suo crimine .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il suo comportamento dopo l'omicidio , sostiene il gip , colpisce la schiena e `` l'ha uccisa '' .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il suo comportamento dopo l'omicidio , sostiene il gip , colpisce la mancanza di una presa di coscienza di quanto commesso e `` l'assenza di pentimento '' .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo che ha ucciso sua moglie non mostra alcun segno di rimorso per il suo crimine, anzi sembra quasi fiero di quello che ha fatto.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Dopo aver ucciso, l'assassino non ha dimostrato alcun pentimento o rimorso per il suo crimine.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Del suo comportamento dopo l'omicidio , sostiene il gip , colpisce la mancanza di una presa di coscienza di quanto commesso e `` l'assenza di pentimento '' .
+
+[[Question:MC:Select]]
+(B.1) Dopo l'omicidio, il colpevole non sembra avere alcuna consapevolezza di quanto sia grave il crimine che ha commesso, né tantomeno sembra sentirsi in colpa.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Il suo comportamento dopo l'omicidio , sostiene il gip , colpisce la mancanza di una presa di coscienza di quanto commesso e `` l'assenza di pentimento '' .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) L'omicida femminicida , dopo aver ucciso , non si è pentito del suo crimine .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Il suo comportamento dopo l'omicidio , sostiene il gip , colpisce la schiena e `` l'ha uccisa '' .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Il suo comportamento dopo l'omicidio , sostiene il gip , colpisce la mancanza di una presa di coscienza di quanto commesso e `` l'assenza di pentimento '' .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) L'uomo che ha ucciso sua moglie non mostra alcun segno di rimorso per il suo crimine, anzi sembra quasi fiero di quello che ha fatto.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Dopo aver ucciso, l'assassino non ha dimostrato alcun pentimento o rimorso per il suo crimine.
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Ashley Olsen , la giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno , è stata uccisa in pochi minuti con un cavo o una catenina stretta al collo .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Né Ashley Olsen, la giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno, è stata uccisa in pochi minuti dal colpevole che le ha stretto un cavo o una catenina al collo.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Ashley Olsen , la giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno , è stata uccisa in pochi minuti con un cavo o una catenina stretta al collo .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il fidanzato di Ashley Olsen , la giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno uccisa in pochi minuti con un cavo o una catenina stretta al collo .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'assassino di Ashley Olsen , la giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno , l'ha uccisa in pochi minuti stringendole un cavo o una catenina al collo .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno , è stata uccisa in pochi minuti con un cavo o una catenina stretta al collo .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno , Ashley Olsen , è stata uccisa in pochi minuti con un cavo o una catenina stretta al collo .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Né Ashley Olsen , la giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno , è stata uccisa in pochi minuti con un cavo o una catenina stretta al collo .
+
+[[Question:MC:Select]]
+(B.1) Ashley Olsen , la giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno , è stata uccisa in pochi minuti con un cavo o una catenina stretta al collo .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Né Ashley Olsen, la giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno, è stata uccisa in pochi minuti dal colpevole che le ha stretto un cavo o una catenina al collo.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Ashley Olsen , la giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno , è stata uccisa in pochi minuti con un cavo o una catenina stretta al collo .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Il fidanzato di Ashley Olsen , la giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno uccisa in pochi minuti con un cavo o una catenina stretta al collo .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) L'assassino di Ashley Olsen , la giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno , l'ha uccisa in pochi minuti stringendole un cavo o una catenina al collo .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) La giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno , è stata uccisa in pochi minuti con un cavo o una catenina stretta al collo .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) La giovane donna statunitense di 35 anni che viveva in Toscana da qualche anno , Ashley Olsen , è stata uccisa in pochi minuti con un cavo o una catenina stretta al collo .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Ashley Olsen è stata trovata strangolata il 9 gennaio scorso nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano . Questo è un femminicidio , un omicidio di donna , e non possiamo permettere che questo continui ad accadere.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Ashley Olsen , trovata strangolata nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La Ashley Olsen , trovata strangolata il 9 gennaio scorso nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il colpevole di Ashley Olsen è stato trovato strangolata il 9 gennaio scorso nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il 9 gennaio scorso Ashley Olsen , trovata strangolata il 9 gennaio scorso nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano , ha confessato di aver ucciso la 35enne americana Cheik Tidiane .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , trovata morta il 9 gennaio scorso nella sua casa di via Santa Monaca .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Ashley Olsen è stata uccisa dal suo convivente , strangolata , nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Ashley Olsen , trovata strangolata il 9 gennaio scorso nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano .
+
+[[Question:MC:Select]]
+(B.1) Ashley Olsen è stata trovata strangolata il 9 gennaio scorso nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano . Questo è un femminicidio , un omicidio di donna , e non possiamo permettere che questo continui ad accadere.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Ashley Olsen , trovata strangolata nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) La Ashley Olsen , trovata strangolata il 9 gennaio scorso nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Il colpevole di Ashley Olsen è stato trovato strangolata il 9 gennaio scorso nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Il 9 gennaio scorso Ashley Olsen , trovata strangolata il 9 gennaio scorso nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano , ha confessato di aver ucciso la 35enne americana Cheik Tidiane .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Un uomo di origini africane , Cheik Tidiane , 27 anni , è stato fermato per l'omicidio di Ashley Olsen , trovata morta il 9 gennaio scorso nella sua casa di via Santa Monaca .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Ashley Olsen è stata uccisa dal suo convivente , strangolata , nella sua casa di via Santa Monaca , nel cuore dell'Oltrarno di Firenze a San Frediano .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+L'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la professionista , che era già deceduta per la gravità delle ferite riportate .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il 118 giunto sul posto ha trovato l'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la professionista , che era già deceduta per la gravità delle ferite riportate dal marito .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+I sanitari del 118 giunti sul posto hanno trovato l'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la professionista , che era già deceduta per la gravità delle ferite riportate .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo ha ucciso la professionista con delle gravi ferite riportate , i sanitari del 118 giunti sul posto hanno trovato l'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la donna .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+I sanitari del 118 giunti sul posto hanno trovato l'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la professionista , che era già deceduta per la gravità delle ferite riportate .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+I sanitari del 118 giunti sul posto hanno trovato l'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la professionista , che era già deceduta per la gravità delle ferite riportate . E' un altro femminicidio che colpisce la nostra società .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Uccide la moglie e si spara .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) I sanitari del 118 giunti sul posto hanno trovato l'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la professionista , che era già deceduta per la gravità delle ferite riportate .
+
+[[Question:MC:Select]]
+(B.1) L'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la professionista , che era già deceduta per la gravità delle ferite riportate .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Il 118 giunto sul posto ha trovato l'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la professionista , che era già deceduta per la gravità delle ferite riportate dal marito .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) I sanitari del 118 giunti sul posto hanno trovato l'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la professionista , che era già deceduta per la gravità delle ferite riportate .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) L'uomo ha ucciso la professionista con delle gravi ferite riportate , i sanitari del 118 giunti sul posto hanno trovato l'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la donna .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) I sanitari del 118 giunti sul posto hanno trovato l'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la professionista , che era già deceduta per la gravità delle ferite riportate .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) I sanitari del 118 giunti sul posto hanno trovato l'uomo in stato di choc ( era stato lui a chiamare sia loro che i carabinieri ) ed hanno inutilmente cercato di rianimare la professionista , che era già deceduta per la gravità delle ferite riportate . E' un altro femminicidio che colpisce la nostra società .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Uccide la moglie e si spara .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Non c'è ancora nessuno indagato per l'omicidio di Ashley Olsen, la 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze. L'unica testimone di questa mattanza è una ragazzina, figlia dei due.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Non c ’ è ancora nessuno indagato per l ’ omicidio di Ashley Olsen , la 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze . Questo non può essere tollerato. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Non c ' è ancora nessuno indagato per l ' omicidio di Ashley Olsen , la 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E non c ’ è ancora nessuno indagato per l ’ omicidio di Ashley Olsen , la 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Non c ’ è ancora nessuno indagato per l ’ omicidio di Ashley Olsen , la 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze , ma la polizia sta seguendo diverse piste .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Non c ’ è ancora nessuno indagato per l ’ omicidio di Ashley Olsen , la 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze .
+
+[[Question:MC:Select]]
+(B.1) Non c'è ancora nessuno indagato per l'omicidio di Ashley Olsen, la 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze. L'unica testimone di questa mattanza è una ragazzina, figlia dei due.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) La 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Non c ’ è ancora nessuno indagato per l ’ omicidio di Ashley Olsen , la 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze . Questo non può essere tollerato. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Non c ' è ancora nessuno indagato per l ' omicidio di Ashley Olsen , la 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) La 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) E non c ’ è ancora nessuno indagato per l ’ omicidio di Ashley Olsen , la 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Non c ’ è ancora nessuno indagato per l ’ omicidio di Ashley Olsen , la 35enne americana strangolata nel suo monolocale in via Santa Monaca nel popoloso Oltrarno a Firenze , ma la polizia sta seguendo diverse piste .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Si è aperto oggi nell'aula bunker di Firenze il processo per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo accusato dell'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso , è comparso oggi davanti a un tribunale a Firenze.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stato arrestato oggi nell'aula bunker di Firenze il processo per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Si è aperto oggi nell'aula bunker di Firenze il processo per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso dal suo convivente .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'aula bunker di Firenze il processo per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il processo per l'omicidio di Ashley Olsen si è aperto oggi nell'aula bunker di Firenze.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' stato arrestato Cheik Tidiane , il 27enne senegalese fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Si è aperto oggi nell'aula bunker di Firenze il processo per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso .
+
+[[Question:MC:Select]]
+(B.1) Si è aperto oggi nell'aula bunker di Firenze il processo per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) L'uomo accusato dell'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso , è comparso oggi davanti a un tribunale a Firenze.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) E ' stato arrestato oggi nell'aula bunker di Firenze il processo per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Si è aperto oggi nell'aula bunker di Firenze il processo per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso dal suo convivente .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) L'aula bunker di Firenze il processo per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Il processo per l'omicidio di Ashley Olsen si è aperto oggi nell'aula bunker di Firenze.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) E ' stato arrestato Cheik Tidiane , il 27enne senegalese fermato per l'omicidio di Ashley Olsen , la 35enne statunitense uccisa nella sua casa di Firenze il 9 gennaio scorso .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Il colpevole di Ashley, 35 anni, uccisa nel suo monocale in Oltrarno, in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano, è ancora sconosciuto.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La Ashley , 35 anni , era in città da qualche anno ed è stata uccisa nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Ashley , 35 anni , è stata uccisa dal suo convivente nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'omicidio di Ashley è un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di 35 anni , Cheik Tidiane , è stato fermato per l'omicidio di Ashley Olsen , 35 anni , uccisa nel suo monolocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La Ashley , 35 anni , era in città da qualche anno ed è morta nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Ashley, 35 anni, è stata uccisa nel suo monocale in Oltrarno, in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano. La donna era in città da qualche anno.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Ashley , 35 anni , era in città da qualche anno ed è stata uccisa nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .
+
+[[Question:MC:Select]]
+(B.1) Il colpevole di Ashley, 35 anni, uccisa nel suo monocale in Oltrarno, in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano, è ancora sconosciuto.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) La Ashley , 35 anni , era in città da qualche anno ed è stata uccisa nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Ashley , 35 anni , è stata uccisa dal suo convivente nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) L'omicidio di Ashley è un altro tragico esempio di femminicidio. Non possiamo permettere che questo continui ad accadere. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Un uomo di 35 anni , Cheik Tidiane , è stato fermato per l'omicidio di Ashley Olsen , 35 anni , uccisa nel suo monolocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) La Ashley , 35 anni , era in città da qualche anno ed è morta nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) Ashley, 35 anni, è stata uccisa nel suo monocale in Oltrarno, in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano. La donna era in città da qualche anno.
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+L'autopsia, svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri, dovrebbe chiarire se il colpevole ha usato lacci o altri oggetti per uccidere oppure no.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia , svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri , dovrebbe chiarire anche questo particolare : se sono stati usati lacci o altri oggetti per uccidere Ashley Olsen , l'assassino non è ancora chiaro .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia , svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri , ha chiarito che la donna è stata uccisa tramite strangolamento .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia, svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri, dovrebbe chiarire anche questo particolare: se sono stati usati lacci o altri oggetti per uccidere oppure no.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'assassino di ieri sera ha ucciso la sua vittima usando un laccio emostatico.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia , svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri , dovrebbe chiarire anche questo particolare : se sono stati usati lacci o altri oggetti per uccidere oppure no .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'autopsia , svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri , dovrebbe chiarire anche questo particolare : se sono stati usati lacci o altri oggetti per uccidere oppure no .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) L'autopsia , svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri , dovrebbe chiarire anche questo particolare : se sono stati usati lacci o altri oggetti per uccidere oppure no .
+
+[[Question:MC:Select]]
+(B.1) L'autopsia, svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri, dovrebbe chiarire se il colpevole ha usato lacci o altri oggetti per uccidere oppure no.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) L'autopsia , svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri , dovrebbe chiarire anche questo particolare : se sono stati usati lacci o altri oggetti per uccidere Ashley Olsen , l'assassino non è ancora chiaro .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) L'autopsia , svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri , ha chiarito che la donna è stata uccisa tramite strangolamento .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) L'autopsia, svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri, dovrebbe chiarire anche questo particolare: se sono stati usati lacci o altri oggetti per uccidere oppure no.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) L'assassino di ieri sera ha ucciso la sua vittima usando un laccio emostatico.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) L'autopsia , svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri , dovrebbe chiarire anche questo particolare : se sono stati usati lacci o altri oggetti per uccidere oppure no .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) L'autopsia , svolta da Martina Focardi e Marco Palandri e durata praticamente per tutta la giornata di ieri , dovrebbe chiarire anche questo particolare : se sono stati usati lacci o altri oggetti per uccidere oppure no .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+E ' la testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La 25enne che si è lanciata dalla finestra per sfuggire al killer è invece in buone condizioni .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La 25enne che si è lanciato dalla finestra per sfuggire al killer è invece in buone condizioni .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La 25enne che si è lanciata dalla finestra per sfuggire al killer è una vittima innocente di un crimine orribile.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Il killer che ha spinto la 25enne a lanciarsi dalla finestra è ancora in libertà.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+L'uomo che si è lanciato dalla finestra per sfuggire al killer è invece in buone condizioni .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La 25enne che si è lanciata dalla finestra per sfuggire al killer è invece in buone condizioni , ma la paura non l'ha ancora abbandonata .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) La 25enne che si è lanciata dalla finestra per sfuggire al killer è invece in buone condizioni .
+
+[[Question:MC:Select]]
+(B.1) E ' la testimonianza della giovane di 25 anni sopravvissuta al duplice omicidio di via Fiume , nel centro di Firenze .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) La 25enne che si è lanciata dalla finestra per sfuggire al killer è invece in buone condizioni .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) La 25enne che si è lanciato dalla finestra per sfuggire al killer è invece in buone condizioni .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) La 25enne che si è lanciata dalla finestra per sfuggire al killer è una vittima innocente di un crimine orribile.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Il killer che ha spinto la 25enne a lanciarsi dalla finestra è ancora in libertà.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) L'uomo che si è lanciato dalla finestra per sfuggire al killer è invece in buone condizioni .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) La 25enne che si è lanciata dalla finestra per sfuggire al killer è invece in buone condizioni , ma la paura non l'ha ancora abbandonata .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+La fiaccolata a Caltagirone contro i femminicidi : fiaccolata a Caltagirone contro i femminicidi
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un altro femminicidio in Sardegna.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+La vittima , una donna di 48 anni , è stata uccisa con una coltellata al collo dal figlio di 19 anni .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo ha ucciso la sua ex moglie ad Anela , in provincia di Sassari .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' successo per colpa di
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo di 79 anni , Pietro Mavuli , ha ucciso a coltellate la madre , Antonia Luigia Dettori , di 79 anni .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+E ' successo ad Anela , in provincia di Sassari .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) E ' successo ad Anela , in provincia di Sassari .
+
+[[Question:MC:Select]]
+(B.1) La fiaccolata a Caltagirone contro i femminicidi : fiaccolata a Caltagirone contro i femminicidi
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Un altro femminicidio in Sardegna.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) La vittima , una donna di 48 anni , è stata uccisa con una coltellata al collo dal figlio di 19 anni .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) Un uomo ha ucciso la sua ex moglie ad Anela , in provincia di Sassari .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) E ' successo per colpa di
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Un uomo di 79 anni , Pietro Mavuli , ha ucciso a coltellate la madre , Antonia Luigia Dettori , di 79 anni .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.7) E ' successo ad Anela , in provincia di Sassari .
+[[Choices]]
+THERMO
+THERMO
+
+[[Block]]
+
+[[Question:Text]]
+Per ciascuna frase usa il tachimetro per valutare quanto si sofferma, secondo te, sulla colpa dell’assassino
+
+[[Question:MC:Select]]
+Caltagirone sta pian piano tornando alla normalità dopo la tragedia che ha sconvolto la città siciliana : l'omicidio della 18enne Melissa Piazzese , uccisa nel sonno dal fidanzato .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Uccisa mentre dormiva : fiaccolata a Caltagirone contro i femminicidi
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Un uomo ha ucciso la sua compagna mentre dormiva , a Caltagirone : contro i femminicidi si è tenuta una fiaccolata .
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+I femminicidi sono una tragedia che non può essere ignorata. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Uccide la moglie mentre dormiva : fiaccolata a Caltagirone contro i femminicidi
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:MC:Select]]
+Raccogliamo la fiaccola per le donne uccise dall'uomo che dovrebbe amarle. Non possiamo più tollerare questo
+[[Choices]]
+SPEEDO
+SPEEDO
+
+[[Question:Text]]
+Usa il "termometro" per indicare quanto è probabile che la frase (A) e ciascuna delle frasi (B.1) - (B.7) descrivano gli stessi fatti.
+(A) Uccisa mentre dormiva : fiaccolata a Caltagirone contro i femminicidi
+
+[[Question:MC:Select]]
+(B.1) Caltagirone sta pian piano tornando alla normalità dopo la tragedia che ha sconvolto la città siciliana : l'omicidio della 18enne Melissa Piazzese , uccisa nel sonno dal fidanzato .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.2) Uccisa mentre dormiva : fiaccolata a Caltagirone contro i femminicidi
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.3) Un uomo ha ucciso la sua compagna mentre dormiva , a Caltagirone : contro i femminicidi si è tenuta una fiaccolata .
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.4) I femminicidi sono una tragedia che non può essere ignorata. Le donne non sono oggetti da possedere o da controllare. Sono esseri umani con i loro diritti e la loro dignità. Non possiamo tollerare questi crimini orribili.
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.5) Uccide la moglie mentre dormiva : fiaccolata a Caltagirone contro i femminicidi
+[[Choices]]
+THERMO
+THERMO
+
+[[Question:MC:Select]]
+(B.6) Raccogliamo la fiaccola per le donne uccise dall'uomo che dovrebbe amarle. Non possiamo più tollerare questo
+[[Choices]]
+THERMO
+THERMO

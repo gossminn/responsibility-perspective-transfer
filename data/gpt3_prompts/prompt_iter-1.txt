@@ -1,0 +1,25 @@
+Ecco 10 frasi parlando di femminicidi. Le frasi cominciando con "Low:" tendono ad essere più brevi e non danno la colpa esplicita all'assassino, mentre le frasi cominciando con "High:" tendono ad essere più dirette e a dare la colpa all'assassino. 
+
+1)
+Low: Del suo comportamento dopo l'omicidio , sostiene il gip , colpisce la mancanza di una presa di coscienza di quanto commesso e `` l'assenza di pentimento '' 
+High: L'omicida femminicida , dopo aver ucciso , non si è pentito del suo crimine .
+
+2)
+Low: 'Tabaccaia uccisa : oggi la sentenza'
+High: 'L'uomo che ha ucciso la tabaccaia verrà giudicato oggi'
+
+3)
+Low: 'Ashley , 35 anni , era in città da qualche anno ed è stata uccisa nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .'
+High: 'Ashley , 35 anni , è stata uccisa dal suo convivente nel suo monocale in Oltrarno , in via Santa Monaca tra i quartieri di Santo Spirito e San Frediano .'
+
+4)
+Low: 'Nella notte tra sabato e domenica , nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , Liliana , un passato da ladra , è stata uccisa .
+High: 'Nella notte tra sabato e domenica , nel piccolo parcheggio a strisce bianche del cimitero di Cusano Milanino , in via Pedretti , in centro , vicino al municipio e al « corso » , Liliana , un passato da ladra , è stata uccisa da un assassino che non ha ancora un nome e un volto .
+
+5)
+Low: `` Quella folle manovra sulla tangenziale di Napoli per il brivido di una sfida alla morte ''
+High: `` Quella folle manovra sulla tangenziale di Napoli ha portato alla morte di una donna ''
+
+6)
+Low: [[TEST_SAMPLE]] 
+High:

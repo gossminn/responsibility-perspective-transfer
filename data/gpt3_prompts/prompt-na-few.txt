@@ -1,0 +1,8 @@
+Rivscrivi le seguenti frasi da low ad high. 
+Per high si intende che la colpa è attribuita interamente al killer.
+Ecco alcuni esempi:
+
+[[EXAMPLES]]
+
+Riscrivi la seguente frase:
+[[TEST_SAMPLE]] ******
