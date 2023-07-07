@@ -9,7 +9,10 @@ This repository contains all of the data and code necessary for reproducing our 
 ### Key files
 - **input data:** our dataset is based on the ones used/created in the SocioFillmore project, see https://aclanthology.org/2022.acl-demo.24/ (base dataset) & https://aclanthology.org/2022.aacl-main.79/ (perspective prediction dataset) and the repositories linked to it. The file `data/questionnaire-combined.jsonl` contains the averaged gold perception scores from the perspective prediction project.
 - **aligned data:** the aligned dataset (sentences referring to the same femicide event and the same facts inside the event) can be found in `data/alignment-annotations/final_aligned_version.xslx`. `output/align` contains different ways of rearranging this data, see the script `make_evaluation_pairs.py`
-- 
+- **gpt3 predictions:** see `output/gpt3_predictions` for the outputs used to do the analysis for the paper. See `output/extra_runs` for additional runs that did not make it into the paper.
+- **evaluation**:
+      * _automatic evaluation_: see the script `autoeval_perspective.py` and the files in `output/auto-eval`.
+      * _human evaluation_: see the notebooks `notebooks/human_eval.ipynb` for the analysis of the main evaluation survey and `notebooks/human_eval.fewshot_prompt.ipynb` for the analysis of the survey for evaluating few-shot examples. See the `questionnaire/` folder for files used to prepare Qualtrics surveys, and `output/questionnaire/responses.processed.*.csv` for anonymized + aggregated ratings. For privacy reasons, we cannot release the raw filled questionnaires output.    
 
 ## mBART-based model
 
